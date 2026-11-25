@@ -1,4 +1,9 @@
-"""Dataset generator - County education office (seed 55) -> student_performance.csv"""
+"""Dataset generators for Week 4.
+
+Part A  - County education office (seed 55) -> student_performance.csv
+Part B  - Duka Electronics (seed 2026, Week 3 generator) -> duka_sales.csv
+"""
+# ---------------- PART A: students (seed 55) ----------------
 import numpy as np, pandas as pd
 rng = np.random.default_rng(55)
 n = 1200
@@ -17,3 +22,31 @@ students["math"] = (base + rng.normal(0, 8, n)).clip(0, 100).round(0)
 students["english"] = (base + rng.normal(3, 7, n)).clip(0, 100).round(0)
 students["science"] = (base + rng.normal(-2, 9, n)).clip(0, 100).round(0)
 students.to_csv("student_performance.csv", index=False)
+
+
+# ---------------- PART B: Duka Electronics (seed 2026) ----------------
+import numpy as np
+import pandas as pd
+
+rng = np.random.default_rng(2026)
+n = 1000
+products = {"Phone": 15000, "Laptop": 65000, "Headphones": 2500,
+            "Tablet": 28000, "Charger": 1200}
+
+sales = pd.DataFrame({
+    "order_id": range(1001, 1001 + n),
+    "order_date": pd.to_datetime("2026-01-01")
+                  + pd.to_timedelta(rng.integers(0, 180, n), unit="D"),
+    "branch": rng.choice("Nairobi Mombasa Kisumu Nakuru Eldoret".split(), n,
+                         p=[0.4, 0.2, 0.15, 0.15, 0.1]),
+    "product": rng.choice(list(products), n),
+    "quantity": rng.integers(1, 6, n),
+    "channel": rng.choice(["In-store", "Online", "Phone order"], n,
+                          p=[0.55, 0.35, 0.10]),
+})
+sales["unit_price"] = sales["product"].map(products)
+sales.to_csv("duka_sales.csv", index=False)
+
+print("Dataset generated successfully!")
+print(f"Rows: {len(sales)}")
+print(sales.head())
