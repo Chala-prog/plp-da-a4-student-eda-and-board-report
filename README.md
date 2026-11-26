@@ -28,6 +28,7 @@ Full analysis, two recommendations and the Limitations section are in `student_e
 ```bash
 pip install -r requirements.txt
 python generate_data.py     # seed 55 -> student_performance.csv; seed 2026 -> duka_sales.csv
+python duka_prep.py         # cleans duka_sales.csv -> duka_sales_clean.csv (also called by board_report.ipynb)
 jupyter nbconvert --to notebook --execute --inplace student_eda.ipynb     # regenerates the EDA figures
 jupyter nbconvert --to notebook --execute --inplace board_report.ipynb    # regenerates reports/ and before/after
 ```
@@ -38,7 +39,9 @@ Do not change the seeds.
 README.md                      this file
 generate_data.py               both generators, unchanged (seed 55 students, seed 2026 Duka)
 student_eda.ipynb              Structure, Univariate, Bivariate, Multivariate, Hypotheses, Findings, Recommendations, Limitations
-board_report.ipynb             storyboard (audience, decision, Big Idea, SCR), chart code, before/after makeover
+board_report.ipynb             storyboard (audience, decision, Big Idea, SCR), cleaned data, chart code, before/after makeover
+duka_prep.py                   Duka cleaning rules and derived columns (revenue, month, quarter, weekday, is_weekend, price_band)
+duka_sales_clean.csv           cleaned Duka sales with derived columns (1,000 orders)
 figures/                       EDA charts 01-07 plus before.png and after.png
 reports/                       duka_board_report.png and .pdf (one page)
 dashboard.md                   Looker Studio dashboard: link, build steps, screenshots

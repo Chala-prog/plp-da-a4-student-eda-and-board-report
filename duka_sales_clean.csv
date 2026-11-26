@@ -1,0 +1,1001 @@
+order_id,order_date,branch,product,quantity,channel,unit_price,revenue,month_num,month,quarter,weekday,is_weekend,price_band
+1001,2026-06-03,Nakuru,Phone,3,In-store,15000,45000,6,June,Q2,Wednesday,False,Value
+1002,2026-02-02,Nairobi,Laptop,4,In-store,65000,260000,2,February,Q1,Monday,False,Premium
+1003,2026-01-05,Nakuru,Tablet,5,In-store,28000,140000,1,January,Q1,Monday,False,Premium
+1004,2026-04-26,Nairobi,Headphones,5,In-store,2500,12500,4,April,Q2,Sunday,True,Value
+1005,2026-03-07,Nairobi,Headphones,3,In-store,2500,7500,3,March,Q1,Saturday,True,Value
+1006,2026-03-26,Nairobi,Headphones,1,Online,2500,2500,3,March,Q1,Thursday,False,Value
+1007,2026-01-15,Nairobi,Laptop,2,Online,65000,130000,1,January,Q1,Thursday,False,Premium
+1008,2026-03-08,Nairobi,Charger,5,In-store,1200,6000,3,March,Q1,Sunday,True,Value
+1009,2026-04-26,Mombasa,Headphones,5,In-store,2500,12500,4,April,Q2,Sunday,True,Value
+1010,2026-03-05,Nakuru,Charger,5,Online,1200,6000,3,March,Q1,Thursday,False,Value
+1011,2026-05-30,Mombasa,Headphones,1,In-store,2500,2500,5,May,Q2,Saturday,True,Value
+1012,2026-05-23,Mombasa,Phone,5,Phone order,15000,75000,5,May,Q2,Saturday,True,Value
+1013,2026-05-07,Eldoret,Headphones,3,Online,2500,7500,5,May,Q2,Thursday,False,Value
+1014,2026-06-12,Nairobi,Tablet,3,Online,28000,84000,6,June,Q2,Friday,False,Premium
+1015,2026-05-10,Mombasa,Tablet,3,In-store,28000,84000,5,May,Q2,Sunday,True,Premium
+1016,2026-02-01,Eldoret,Phone,4,In-store,15000,60000,2,February,Q1,Sunday,True,Value
+1017,2026-06-04,Mombasa,Tablet,4,In-store,28000,112000,6,June,Q2,Thursday,False,Premium
+1018,2026-04-28,Mombasa,Tablet,3,Phone order,28000,84000,4,April,Q2,Tuesday,False,Premium
+1019,2026-01-18,Mombasa,Phone,1,In-store,15000,15000,1,January,Q1,Sunday,True,Value
+1020,2026-02-23,Nairobi,Phone,5,Online,15000,75000,2,February,Q1,Monday,False,Value
+1021,2026-01-30,Kisumu,Tablet,2,In-store,28000,56000,1,January,Q1,Friday,False,Premium
+1022,2026-06-24,Eldoret,Phone,2,In-store,15000,30000,6,June,Q2,Wednesday,False,Value
+1023,2026-05-12,Eldoret,Charger,1,In-store,1200,1200,5,May,Q2,Tuesday,False,Value
+1024,2026-06-15,Mombasa,Charger,4,Online,1200,4800,6,June,Q2,Monday,False,Value
+1025,2026-02-20,Nairobi,Laptop,4,Phone order,65000,260000,2,February,Q1,Friday,False,Premium
+1026,2026-04-25,Kisumu,Charger,1,In-store,1200,1200,4,April,Q2,Saturday,True,Value
+1027,2026-04-19,Eldoret,Laptop,4,Online,65000,260000,4,April,Q2,Sunday,True,Premium
+1028,2026-05-16,Eldoret,Headphones,2,In-store,2500,5000,5,May,Q2,Saturday,True,Value
+1029,2026-01-22,Nairobi,Phone,4,In-store,15000,60000,1,January,Q1,Thursday,False,Value
+1030,2026-04-03,Eldoret,Laptop,3,In-store,65000,195000,4,April,Q2,Friday,False,Premium
+1031,2026-04-27,Kisumu,Tablet,3,In-store,28000,84000,4,April,Q2,Monday,False,Premium
+1032,2026-05-29,Nakuru,Laptop,1,In-store,65000,65000,5,May,Q2,Friday,False,Premium
+1033,2026-04-29,Nairobi,Laptop,2,Online,65000,130000,4,April,Q2,Wednesday,False,Premium
+1034,2026-03-22,Eldoret,Laptop,2,In-store,65000,130000,3,March,Q1,Sunday,True,Premium
+1035,2026-03-24,Nakuru,Laptop,3,Online,65000,195000,3,March,Q1,Tuesday,False,Premium
+1036,2026-03-02,Nairobi,Laptop,4,Online,65000,260000,3,March,Q1,Monday,False,Premium
+1037,2026-01-29,Mombasa,Headphones,3,In-store,2500,7500,1,January,Q1,Thursday,False,Value
+1038,2026-02-20,Nairobi,Phone,4,Online,15000,60000,2,February,Q1,Friday,False,Value
+1039,2026-01-27,Kisumu,Charger,3,In-store,1200,3600,1,January,Q1,Tuesday,False,Value
+1040,2026-02-10,Mombasa,Laptop,5,Online,65000,325000,2,February,Q1,Tuesday,False,Premium
+1041,2026-06-03,Mombasa,Headphones,1,Online,2500,2500,6,June,Q2,Wednesday,False,Value
+1042,2026-04-05,Nakuru,Phone,5,Online,15000,75000,4,April,Q2,Sunday,True,Value
+1043,2026-01-17,Nakuru,Headphones,1,In-store,2500,2500,1,January,Q1,Saturday,True,Value
+1044,2026-03-19,Nairobi,Phone,2,Online,15000,30000,3,March,Q1,Thursday,False,Value
+1045,2026-02-18,Nakuru,Laptop,4,Online,65000,260000,2,February,Q1,Wednesday,False,Premium
+1046,2026-04-30,Mombasa,Charger,4,Online,1200,4800,4,April,Q2,Thursday,False,Value
+1047,2026-05-30,Nairobi,Phone,4,In-store,15000,60000,5,May,Q2,Saturday,True,Value
+1048,2026-01-03,Nairobi,Tablet,1,In-store,28000,28000,1,January,Q1,Saturday,True,Premium
+1049,2026-03-25,Mombasa,Tablet,1,Online,28000,28000,3,March,Q1,Wednesday,False,Premium
+1050,2026-03-22,Nakuru,Tablet,4,In-store,28000,112000,3,March,Q1,Sunday,True,Premium
+1051,2026-06-28,Nakuru,Phone,4,In-store,15000,60000,6,June,Q2,Sunday,True,Value
+1052,2026-03-07,Nairobi,Tablet,1,In-store,28000,28000,3,March,Q1,Saturday,True,Premium
+1053,2026-01-30,Mombasa,Charger,2,In-store,1200,2400,1,January,Q1,Friday,False,Value
+1054,2026-02-05,Nakuru,Laptop,1,In-store,65000,65000,2,February,Q1,Thursday,False,Premium
+1055,2026-03-27,Kisumu,Charger,5,Online,1200,6000,3,March,Q1,Friday,False,Value
+1056,2026-04-18,Nakuru,Tablet,5,In-store,28000,140000,4,April,Q2,Saturday,True,Premium
+1057,2026-02-28,Mombasa,Charger,1,In-store,1200,1200,2,February,Q1,Saturday,True,Value
+1058,2026-03-20,Nairobi,Charger,4,Phone order,1200,4800,3,March,Q1,Friday,False,Value
+1059,2026-04-30,Mombasa,Laptop,1,Online,65000,65000,4,April,Q2,Thursday,False,Premium
+1060,2026-02-23,Mombasa,Charger,2,Online,1200,2400,2,February,Q1,Monday,False,Value
+1061,2026-06-23,Nakuru,Headphones,4,Online,2500,10000,6,June,Q2,Tuesday,False,Value
+1062,2026-02-07,Nairobi,Headphones,4,In-store,2500,10000,2,February,Q1,Saturday,True,Value
+1063,2026-06-18,Nairobi,Phone,5,Online,15000,75000,6,June,Q2,Thursday,False,Value
+1064,2026-06-07,Kisumu,Charger,2,Online,1200,2400,6,June,Q2,Sunday,True,Value
+1065,2026-06-22,Mombasa,Phone,3,In-store,15000,45000,6,June,Q2,Monday,False,Value
+1066,2026-05-24,Mombasa,Tablet,3,In-store,28000,84000,5,May,Q2,Sunday,True,Premium
+1067,2026-04-06,Eldoret,Charger,2,In-store,1200,2400,4,April,Q2,Monday,False,Value
+1068,2026-04-20,Kisumu,Laptop,4,In-store,65000,260000,4,April,Q2,Monday,False,Premium
+1069,2026-02-07,Kisumu,Phone,3,Online,15000,45000,2,February,Q1,Saturday,True,Value
+1070,2026-03-04,Eldoret,Headphones,1,Phone order,2500,2500,3,March,Q1,Wednesday,False,Value
+1071,2026-03-25,Kisumu,Charger,3,Phone order,1200,3600,3,March,Q1,Wednesday,False,Value
+1072,2026-06-20,Eldoret,Laptop,2,Online,65000,130000,6,June,Q2,Saturday,True,Premium
+1073,2026-05-24,Kisumu,Tablet,5,In-store,28000,140000,5,May,Q2,Sunday,True,Premium
+1074,2026-04-12,Mombasa,Laptop,2,In-store,65000,130000,4,April,Q2,Sunday,True,Premium
+1075,2026-04-18,Nairobi,Laptop,5,In-store,65000,325000,4,April,Q2,Saturday,True,Premium
+1076,2026-03-19,Nairobi,Headphones,4,In-store,2500,10000,3,March,Q1,Thursday,False,Value
+1077,2026-03-17,Mombasa,Headphones,3,In-store,2500,7500,3,March,Q1,Tuesday,False,Value
+1078,2026-06-12,Nairobi,Tablet,2,Online,28000,56000,6,June,Q2,Friday,False,Premium
+1079,2026-01-01,Nairobi,Phone,5,In-store,15000,75000,1,January,Q1,Thursday,False,Value
+1080,2026-02-27,Kisumu,Phone,4,Online,15000,60000,2,February,Q1,Friday,False,Value
+1081,2026-03-15,Kisumu,Laptop,5,Online,65000,325000,3,March,Q1,Sunday,True,Premium
+1082,2026-05-06,Nairobi,Laptop,4,In-store,65000,260000,5,May,Q2,Wednesday,False,Premium
+1083,2026-03-16,Nairobi,Tablet,3,Online,28000,84000,3,March,Q1,Monday,False,Premium
+1084,2026-02-26,Kisumu,Laptop,2,Online,65000,130000,2,February,Q1,Thursday,False,Premium
+1085,2026-01-15,Mombasa,Tablet,3,In-store,28000,84000,1,January,Q1,Thursday,False,Premium
+1086,2026-02-17,Mombasa,Laptop,2,In-store,65000,130000,2,February,Q1,Tuesday,False,Premium
+1087,2026-01-20,Nairobi,Phone,2,In-store,15000,30000,1,January,Q1,Tuesday,False,Value
+1088,2026-05-07,Nakuru,Tablet,1,Phone order,28000,28000,5,May,Q2,Thursday,False,Premium
+1089,2026-03-19,Nairobi,Headphones,3,In-store,2500,7500,3,March,Q1,Thursday,False,Value
+1090,2026-02-11,Nairobi,Laptop,3,In-store,65000,195000,2,February,Q1,Wednesday,False,Premium
+1091,2026-04-08,Mombasa,Tablet,1,In-store,28000,28000,4,April,Q2,Wednesday,False,Premium
+1092,2026-03-30,Mombasa,Headphones,3,In-store,2500,7500,3,March,Q1,Monday,False,Value
+1093,2026-03-27,Eldoret,Headphones,3,Online,2500,7500,3,March,Q1,Friday,False,Value
+1094,2026-04-15,Nairobi,Charger,4,In-store,1200,4800,4,April,Q2,Wednesday,False,Value
+1095,2026-04-23,Nairobi,Charger,5,Online,1200,6000,4,April,Q2,Thursday,False,Value
+1096,2026-02-04,Nairobi,Charger,3,Phone order,1200,3600,2,February,Q1,Wednesday,False,Value
+1097,2026-01-28,Nakuru,Laptop,5,In-store,65000,325000,1,January,Q1,Wednesday,False,Premium
+1098,2026-05-12,Nairobi,Phone,5,In-store,15000,75000,5,May,Q2,Tuesday,False,Value
+1099,2026-06-25,Eldoret,Headphones,1,In-store,2500,2500,6,June,Q2,Thursday,False,Value
+1100,2026-04-09,Nairobi,Laptop,5,In-store,65000,325000,4,April,Q2,Thursday,False,Premium
+1101,2026-03-23,Mombasa,Headphones,1,In-store,2500,2500,3,March,Q1,Monday,False,Value
+1102,2026-04-22,Nakuru,Laptop,1,Online,65000,65000,4,April,Q2,Wednesday,False,Premium
+1103,2026-01-07,Mombasa,Charger,1,In-store,1200,1200,1,January,Q1,Wednesday,False,Value
+1104,2026-03-08,Mombasa,Laptop,3,Online,65000,195000,3,March,Q1,Sunday,True,Premium
+1105,2026-03-06,Nakuru,Headphones,1,Online,2500,2500,3,March,Q1,Friday,False,Value
+1106,2026-03-17,Mombasa,Laptop,4,Online,65000,260000,3,March,Q1,Tuesday,False,Premium
+1107,2026-05-14,Eldoret,Laptop,4,In-store,65000,260000,5,May,Q2,Thursday,False,Premium
+1108,2026-03-31,Nairobi,Tablet,3,Online,28000,84000,3,March,Q1,Tuesday,False,Premium
+1109,2026-06-04,Mombasa,Laptop,1,In-store,65000,65000,6,June,Q2,Thursday,False,Premium
+1110,2026-03-26,Kisumu,Headphones,2,In-store,2500,5000,3,March,Q1,Thursday,False,Value
+1111,2026-01-07,Eldoret,Charger,3,In-store,1200,3600,1,January,Q1,Wednesday,False,Value
+1112,2026-05-02,Nairobi,Phone,1,In-store,15000,15000,5,May,Q2,Saturday,True,Value
+1113,2026-05-24,Nakuru,Phone,4,Phone order,15000,60000,5,May,Q2,Sunday,True,Value
+1114,2026-04-14,Kisumu,Laptop,4,In-store,65000,260000,4,April,Q2,Tuesday,False,Premium
+1115,2026-06-18,Nakuru,Phone,4,In-store,15000,60000,6,June,Q2,Thursday,False,Value
+1116,2026-03-16,Kisumu,Laptop,1,In-store,65000,65000,3,March,Q1,Monday,False,Premium
+1117,2026-05-24,Mombasa,Phone,3,In-store,15000,45000,5,May,Q2,Sunday,True,Value
+1118,2026-01-01,Nakuru,Tablet,3,In-store,28000,84000,1,January,Q1,Thursday,False,Premium
+1119,2026-01-08,Nairobi,Tablet,2,In-store,28000,56000,1,January,Q1,Thursday,False,Premium
+1120,2026-05-23,Nairobi,Phone,5,Online,15000,75000,5,May,Q2,Saturday,True,Value
+1121,2026-06-07,Kisumu,Tablet,2,In-store,28000,56000,6,June,Q2,Sunday,True,Premium
+1122,2026-04-04,Nakuru,Phone,4,In-store,15000,60000,4,April,Q2,Saturday,True,Value
+1123,2026-05-16,Nakuru,Phone,4,In-store,15000,60000,5,May,Q2,Saturday,True,Value
+1124,2026-02-28,Mombasa,Tablet,1,In-store,28000,28000,2,February,Q1,Saturday,True,Premium
+1125,2026-05-11,Kisumu,Charger,1,In-store,1200,1200,5,May,Q2,Monday,False,Value
+1126,2026-03-31,Kisumu,Phone,5,In-store,15000,75000,3,March,Q1,Tuesday,False,Value
+1127,2026-02-24,Nairobi,Phone,2,In-store,15000,30000,2,February,Q1,Tuesday,False,Value
+1128,2026-01-17,Nakuru,Tablet,4,In-store,28000,112000,1,January,Q1,Saturday,True,Premium
+1129,2026-02-01,Eldoret,Charger,3,In-store,1200,3600,2,February,Q1,Sunday,True,Value
+1130,2026-06-12,Nairobi,Phone,4,In-store,15000,60000,6,June,Q2,Friday,False,Value
+1131,2026-03-21,Nairobi,Tablet,3,Online,28000,84000,3,March,Q1,Saturday,True,Premium
+1132,2026-06-28,Mombasa,Tablet,2,Phone order,28000,56000,6,June,Q2,Sunday,True,Premium
+1133,2026-03-05,Nakuru,Phone,1,In-store,15000,15000,3,March,Q1,Thursday,False,Value
+1134,2026-01-11,Kisumu,Laptop,5,In-store,65000,325000,1,January,Q1,Sunday,True,Premium
+1135,2026-02-16,Eldoret,Phone,4,In-store,15000,60000,2,February,Q1,Monday,False,Value
+1136,2026-03-06,Eldoret,Phone,4,In-store,15000,60000,3,March,Q1,Friday,False,Value
+1137,2026-05-07,Kisumu,Laptop,3,Online,65000,195000,5,May,Q2,Thursday,False,Premium
+1138,2026-05-12,Kisumu,Tablet,2,In-store,28000,56000,5,May,Q2,Tuesday,False,Premium
+1139,2026-05-13,Nairobi,Headphones,2,In-store,2500,5000,5,May,Q2,Wednesday,False,Value
+1140,2026-02-26,Nairobi,Phone,2,Phone order,15000,30000,2,February,Q1,Thursday,False,Value
+1141,2026-03-10,Nakuru,Charger,5,Online,1200,6000,3,March,Q1,Tuesday,False,Value
+1142,2026-04-13,Mombasa,Tablet,1,Online,28000,28000,4,April,Q2,Monday,False,Premium
+1143,2026-04-20,Nairobi,Phone,3,In-store,15000,45000,4,April,Q2,Monday,False,Value
+1144,2026-03-16,Nairobi,Charger,1,In-store,1200,1200,3,March,Q1,Monday,False,Value
+1145,2026-02-04,Nairobi,Charger,1,Online,1200,1200,2,February,Q1,Wednesday,False,Value
+1146,2026-05-20,Mombasa,Laptop,1,In-store,65000,65000,5,May,Q2,Wednesday,False,Premium
+1147,2026-04-04,Eldoret,Headphones,4,In-store,2500,10000,4,April,Q2,Saturday,True,Value
+1148,2026-06-22,Nairobi,Headphones,1,In-store,2500,2500,6,June,Q2,Monday,False,Value
+1149,2026-06-20,Nakuru,Tablet,1,In-store,28000,28000,6,June,Q2,Saturday,True,Premium
+1150,2026-06-09,Nairobi,Tablet,5,Online,28000,140000,6,June,Q2,Tuesday,False,Premium
+1151,2026-06-22,Nakuru,Tablet,4,Online,28000,112000,6,June,Q2,Monday,False,Premium
+1152,2026-04-22,Eldoret,Laptop,4,In-store,65000,260000,4,April,Q2,Wednesday,False,Premium
+1153,2026-02-23,Mombasa,Laptop,5,Online,65000,325000,2,February,Q1,Monday,False,Premium
+1154,2026-01-29,Mombasa,Headphones,3,In-store,2500,7500,1,January,Q1,Thursday,False,Value
+1155,2026-01-19,Eldoret,Laptop,3,In-store,65000,195000,1,January,Q1,Monday,False,Premium
+1156,2026-06-20,Nairobi,Phone,3,Online,15000,45000,6,June,Q2,Saturday,True,Value
+1157,2026-02-18,Eldoret,Headphones,5,In-store,2500,12500,2,February,Q1,Wednesday,False,Value
+1158,2026-01-05,Eldoret,Laptop,5,Online,65000,325000,1,January,Q1,Monday,False,Premium
+1159,2026-01-07,Eldoret,Tablet,2,Phone order,28000,56000,1,January,Q1,Wednesday,False,Premium
+1160,2026-02-23,Nakuru,Laptop,2,Online,65000,130000,2,February,Q1,Monday,False,Premium
+1161,2026-06-26,Mombasa,Charger,4,Online,1200,4800,6,June,Q2,Friday,False,Value
+1162,2026-02-20,Kisumu,Tablet,3,In-store,28000,84000,2,February,Q1,Friday,False,Premium
+1163,2026-01-19,Mombasa,Tablet,1,In-store,28000,28000,1,January,Q1,Monday,False,Premium
+1164,2026-05-01,Nairobi,Tablet,1,In-store,28000,28000,5,May,Q2,Friday,False,Premium
+1165,2026-01-11,Eldoret,Charger,1,Online,1200,1200,1,January,Q1,Sunday,True,Value
+1166,2026-03-29,Nairobi,Tablet,1,In-store,28000,28000,3,March,Q1,Sunday,True,Premium
+1167,2026-01-16,Nairobi,Charger,4,In-store,1200,4800,1,January,Q1,Friday,False,Value
+1168,2026-01-17,Eldoret,Charger,1,Phone order,1200,1200,1,January,Q1,Saturday,True,Value
+1169,2026-03-06,Eldoret,Tablet,4,In-store,28000,112000,3,March,Q1,Friday,False,Premium
+1170,2026-01-03,Nairobi,Charger,3,In-store,1200,3600,1,January,Q1,Saturday,True,Value
+1171,2026-06-03,Eldoret,Phone,5,In-store,15000,75000,6,June,Q2,Wednesday,False,Value
+1172,2026-04-19,Nakuru,Phone,3,Online,15000,45000,4,April,Q2,Sunday,True,Value
+1173,2026-06-18,Nakuru,Tablet,5,In-store,28000,140000,6,June,Q2,Thursday,False,Premium
+1174,2026-03-30,Mombasa,Tablet,3,Online,28000,84000,3,March,Q1,Monday,False,Premium
+1175,2026-04-11,Nairobi,Phone,5,In-store,15000,75000,4,April,Q2,Saturday,True,Value
+1176,2026-04-19,Nairobi,Laptop,4,Phone order,65000,260000,4,April,Q2,Sunday,True,Premium
+1177,2026-03-25,Nairobi,Tablet,4,In-store,28000,112000,3,March,Q1,Wednesday,False,Premium
+1178,2026-04-12,Nairobi,Laptop,1,In-store,65000,65000,4,April,Q2,Sunday,True,Premium
+1179,2026-04-14,Nairobi,Charger,3,Online,1200,3600,4,April,Q2,Tuesday,False,Value
+1180,2026-06-10,Nairobi,Charger,3,Phone order,1200,3600,6,June,Q2,Wednesday,False,Value
+1181,2026-02-24,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Tuesday,False,Premium
+1182,2026-06-15,Mombasa,Headphones,5,In-store,2500,12500,6,June,Q2,Monday,False,Value
+1183,2026-02-01,Nakuru,Headphones,1,In-store,2500,2500,2,February,Q1,Sunday,True,Value
+1184,2026-02-03,Mombasa,Headphones,4,Online,2500,10000,2,February,Q1,Tuesday,False,Value
+1185,2026-02-15,Mombasa,Tablet,3,In-store,28000,84000,2,February,Q1,Sunday,True,Premium
+1186,2026-06-19,Nakuru,Phone,4,Online,15000,60000,6,June,Q2,Friday,False,Value
+1187,2026-02-14,Nakuru,Headphones,4,Phone order,2500,10000,2,February,Q1,Saturday,True,Value
+1188,2026-05-22,Mombasa,Tablet,3,Online,28000,84000,5,May,Q2,Friday,False,Premium
+1189,2026-04-15,Kisumu,Laptop,3,Online,65000,195000,4,April,Q2,Wednesday,False,Premium
+1190,2026-04-26,Eldoret,Charger,1,In-store,1200,1200,4,April,Q2,Sunday,True,Value
+1191,2026-01-14,Nairobi,Phone,5,In-store,15000,75000,1,January,Q1,Wednesday,False,Value
+1192,2026-04-29,Kisumu,Tablet,5,In-store,28000,140000,4,April,Q2,Wednesday,False,Premium
+1193,2026-01-13,Nakuru,Tablet,5,In-store,28000,140000,1,January,Q1,Tuesday,False,Premium
+1194,2026-04-09,Mombasa,Tablet,2,Online,28000,56000,4,April,Q2,Thursday,False,Premium
+1195,2026-05-22,Kisumu,Tablet,4,Online,28000,112000,5,May,Q2,Friday,False,Premium
+1196,2026-06-15,Nakuru,Phone,1,Online,15000,15000,6,June,Q2,Monday,False,Value
+1197,2026-06-28,Nakuru,Laptop,3,Online,65000,195000,6,June,Q2,Sunday,True,Premium
+1198,2026-02-11,Mombasa,Laptop,3,Online,65000,195000,2,February,Q1,Wednesday,False,Premium
+1199,2026-05-19,Kisumu,Laptop,1,In-store,65000,65000,5,May,Q2,Tuesday,False,Premium
+1200,2026-04-18,Kisumu,Headphones,1,In-store,2500,2500,4,April,Q2,Saturday,True,Value
+1201,2026-05-13,Nairobi,Laptop,5,Phone order,65000,325000,5,May,Q2,Wednesday,False,Premium
+1202,2026-05-27,Nairobi,Tablet,2,In-store,28000,56000,5,May,Q2,Wednesday,False,Premium
+1203,2026-03-27,Eldoret,Phone,4,In-store,15000,60000,3,March,Q1,Friday,False,Value
+1204,2026-01-25,Mombasa,Phone,3,In-store,15000,45000,1,January,Q1,Sunday,True,Value
+1205,2026-05-22,Nairobi,Headphones,2,In-store,2500,5000,5,May,Q2,Friday,False,Value
+1206,2026-04-21,Nairobi,Laptop,1,In-store,65000,65000,4,April,Q2,Tuesday,False,Premium
+1207,2026-01-25,Nairobi,Charger,1,Online,1200,1200,1,January,Q1,Sunday,True,Value
+1208,2026-03-14,Mombasa,Charger,5,In-store,1200,6000,3,March,Q1,Saturday,True,Value
+1209,2026-01-27,Mombasa,Headphones,4,In-store,2500,10000,1,January,Q1,Tuesday,False,Value
+1210,2026-05-18,Nairobi,Phone,2,In-store,15000,30000,5,May,Q2,Monday,False,Value
+1211,2026-03-02,Nairobi,Charger,3,In-store,1200,3600,3,March,Q1,Monday,False,Value
+1212,2026-01-13,Eldoret,Tablet,3,In-store,28000,84000,1,January,Q1,Tuesday,False,Premium
+1213,2026-02-21,Nairobi,Tablet,4,Phone order,28000,112000,2,February,Q1,Saturday,True,Premium
+1214,2026-04-20,Eldoret,Headphones,4,In-store,2500,10000,4,April,Q2,Monday,False,Value
+1215,2026-04-17,Nairobi,Tablet,4,Online,28000,112000,4,April,Q2,Friday,False,Premium
+1216,2026-06-04,Mombasa,Charger,3,Phone order,1200,3600,6,June,Q2,Thursday,False,Value
+1217,2026-03-06,Nakuru,Phone,4,Phone order,15000,60000,3,March,Q1,Friday,False,Value
+1218,2026-04-24,Kisumu,Phone,5,In-store,15000,75000,4,April,Q2,Friday,False,Value
+1219,2026-06-20,Kisumu,Laptop,1,In-store,65000,65000,6,June,Q2,Saturday,True,Premium
+1220,2026-02-27,Nairobi,Tablet,4,In-store,28000,112000,2,February,Q1,Friday,False,Premium
+1221,2026-01-06,Nakuru,Headphones,3,Online,2500,7500,1,January,Q1,Tuesday,False,Value
+1222,2026-04-29,Kisumu,Charger,4,In-store,1200,4800,4,April,Q2,Wednesday,False,Value
+1223,2026-04-19,Eldoret,Headphones,3,Online,2500,7500,4,April,Q2,Sunday,True,Value
+1224,2026-03-02,Eldoret,Tablet,3,In-store,28000,84000,3,March,Q1,Monday,False,Premium
+1225,2026-04-12,Nakuru,Tablet,4,In-store,28000,112000,4,April,Q2,Sunday,True,Premium
+1226,2026-05-01,Nakuru,Laptop,4,Online,65000,260000,5,May,Q2,Friday,False,Premium
+1227,2026-05-28,Eldoret,Tablet,3,Online,28000,84000,5,May,Q2,Thursday,False,Premium
+1228,2026-01-24,Kisumu,Charger,1,In-store,1200,1200,1,January,Q1,Saturday,True,Value
+1229,2026-03-26,Kisumu,Charger,1,In-store,1200,1200,3,March,Q1,Thursday,False,Value
+1230,2026-02-20,Mombasa,Charger,5,In-store,1200,6000,2,February,Q1,Friday,False,Value
+1231,2026-03-02,Mombasa,Headphones,5,In-store,2500,12500,3,March,Q1,Monday,False,Value
+1232,2026-01-06,Kisumu,Tablet,2,In-store,28000,56000,1,January,Q1,Tuesday,False,Premium
+1233,2026-03-17,Kisumu,Tablet,5,Online,28000,140000,3,March,Q1,Tuesday,False,Premium
+1234,2026-01-16,Nairobi,Laptop,1,In-store,65000,65000,1,January,Q1,Friday,False,Premium
+1235,2026-06-16,Nairobi,Charger,5,Online,1200,6000,6,June,Q2,Tuesday,False,Value
+1236,2026-04-10,Mombasa,Tablet,2,In-store,28000,56000,4,April,Q2,Friday,False,Premium
+1237,2026-03-17,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Tuesday,False,Value
+1238,2026-02-11,Kisumu,Charger,2,In-store,1200,2400,2,February,Q1,Wednesday,False,Value
+1239,2026-06-19,Eldoret,Headphones,4,In-store,2500,10000,6,June,Q2,Friday,False,Value
+1240,2026-04-03,Nairobi,Tablet,5,Online,28000,140000,4,April,Q2,Friday,False,Premium
+1241,2026-06-27,Nakuru,Laptop,1,In-store,65000,65000,6,June,Q2,Saturday,True,Premium
+1242,2026-04-29,Nairobi,Laptop,2,Online,65000,130000,4,April,Q2,Wednesday,False,Premium
+1243,2026-06-28,Kisumu,Charger,2,Online,1200,2400,6,June,Q2,Sunday,True,Value
+1244,2026-06-08,Nairobi,Charger,2,In-store,1200,2400,6,June,Q2,Monday,False,Value
+1245,2026-05-14,Kisumu,Headphones,2,In-store,2500,5000,5,May,Q2,Thursday,False,Value
+1246,2026-03-05,Mombasa,Phone,5,In-store,15000,75000,3,March,Q1,Thursday,False,Value
+1247,2026-05-20,Nakuru,Laptop,5,Online,65000,325000,5,May,Q2,Wednesday,False,Premium
+1248,2026-02-27,Nairobi,Laptop,5,In-store,65000,325000,2,February,Q1,Friday,False,Premium
+1249,2026-06-04,Mombasa,Tablet,5,Online,28000,140000,6,June,Q2,Thursday,False,Premium
+1250,2026-02-26,Nakuru,Charger,3,In-store,1200,3600,2,February,Q1,Thursday,False,Value
+1251,2026-01-14,Kisumu,Phone,4,Online,15000,60000,1,January,Q1,Wednesday,False,Value
+1252,2026-01-22,Nairobi,Tablet,5,Online,28000,140000,1,January,Q1,Thursday,False,Premium
+1253,2026-03-23,Nakuru,Headphones,3,Online,2500,7500,3,March,Q1,Monday,False,Value
+1254,2026-04-30,Nairobi,Phone,1,In-store,15000,15000,4,April,Q2,Thursday,False,Value
+1255,2026-02-22,Nairobi,Charger,5,In-store,1200,6000,2,February,Q1,Sunday,True,Value
+1256,2026-05-28,Nairobi,Headphones,4,In-store,2500,10000,5,May,Q2,Thursday,False,Value
+1257,2026-02-16,Nakuru,Laptop,5,In-store,65000,325000,2,February,Q1,Monday,False,Premium
+1258,2026-03-27,Nakuru,Charger,1,In-store,1200,1200,3,March,Q1,Friday,False,Value
+1259,2026-03-02,Nakuru,Phone,5,In-store,15000,75000,3,March,Q1,Monday,False,Value
+1260,2026-04-11,Nakuru,Charger,1,In-store,1200,1200,4,April,Q2,Saturday,True,Value
+1261,2026-02-04,Nakuru,Phone,4,Online,15000,60000,2,February,Q1,Wednesday,False,Value
+1262,2026-06-22,Eldoret,Laptop,5,Online,65000,325000,6,June,Q2,Monday,False,Premium
+1263,2026-06-16,Mombasa,Headphones,5,Online,2500,12500,6,June,Q2,Tuesday,False,Value
+1264,2026-05-06,Kisumu,Laptop,5,In-store,65000,325000,5,May,Q2,Wednesday,False,Premium
+1265,2026-04-06,Eldoret,Laptop,5,In-store,65000,325000,4,April,Q2,Monday,False,Premium
+1266,2026-05-15,Mombasa,Laptop,4,Phone order,65000,260000,5,May,Q2,Friday,False,Premium
+1267,2026-03-26,Nairobi,Phone,4,In-store,15000,60000,3,March,Q1,Thursday,False,Value
+1268,2026-06-10,Eldoret,Laptop,3,In-store,65000,195000,6,June,Q2,Wednesday,False,Premium
+1269,2026-01-12,Nairobi,Phone,3,In-store,15000,45000,1,January,Q1,Monday,False,Value
+1270,2026-02-08,Mombasa,Phone,5,In-store,15000,75000,2,February,Q1,Sunday,True,Value
+1271,2026-03-24,Eldoret,Laptop,3,Phone order,65000,195000,3,March,Q1,Tuesday,False,Premium
+1272,2026-04-28,Kisumu,Laptop,3,Phone order,65000,195000,4,April,Q2,Tuesday,False,Premium
+1273,2026-05-08,Kisumu,Charger,2,In-store,1200,2400,5,May,Q2,Friday,False,Value
+1274,2026-05-10,Mombasa,Tablet,3,Online,28000,84000,5,May,Q2,Sunday,True,Premium
+1275,2026-06-19,Nairobi,Tablet,5,In-store,28000,140000,6,June,Q2,Friday,False,Premium
+1276,2026-06-01,Mombasa,Headphones,1,Online,2500,2500,6,June,Q2,Monday,False,Value
+1277,2026-06-14,Kisumu,Tablet,4,Online,28000,112000,6,June,Q2,Sunday,True,Premium
+1278,2026-03-03,Mombasa,Laptop,3,Online,65000,195000,3,March,Q1,Tuesday,False,Premium
+1279,2026-05-06,Nakuru,Tablet,4,In-store,28000,112000,5,May,Q2,Wednesday,False,Premium
+1280,2026-05-04,Eldoret,Charger,1,In-store,1200,1200,5,May,Q2,Monday,False,Value
+1281,2026-04-19,Kisumu,Headphones,1,Phone order,2500,2500,4,April,Q2,Sunday,True,Value
+1282,2026-04-19,Kisumu,Headphones,2,Phone order,2500,5000,4,April,Q2,Sunday,True,Value
+1283,2026-04-05,Nakuru,Charger,3,Online,1200,3600,4,April,Q2,Sunday,True,Value
+1284,2026-03-15,Mombasa,Phone,2,Online,15000,30000,3,March,Q1,Sunday,True,Value
+1285,2026-01-25,Nairobi,Tablet,3,In-store,28000,84000,1,January,Q1,Sunday,True,Premium
+1286,2026-01-19,Nakuru,Tablet,4,In-store,28000,112000,1,January,Q1,Monday,False,Premium
+1287,2026-01-01,Nakuru,Headphones,1,Phone order,2500,2500,1,January,Q1,Thursday,False,Value
+1288,2026-03-05,Eldoret,Phone,4,In-store,15000,60000,3,March,Q1,Thursday,False,Value
+1289,2026-03-09,Nairobi,Phone,2,In-store,15000,30000,3,March,Q1,Monday,False,Value
+1290,2026-06-23,Mombasa,Phone,5,In-store,15000,75000,6,June,Q2,Tuesday,False,Value
+1291,2026-02-13,Nairobi,Headphones,5,In-store,2500,12500,2,February,Q1,Friday,False,Value
+1292,2026-02-08,Mombasa,Tablet,5,In-store,28000,140000,2,February,Q1,Sunday,True,Premium
+1293,2026-01-08,Mombasa,Headphones,1,Online,2500,2500,1,January,Q1,Thursday,False,Value
+1294,2026-01-21,Nairobi,Laptop,1,Online,65000,65000,1,January,Q1,Wednesday,False,Premium
+1295,2026-04-29,Eldoret,Tablet,5,In-store,28000,140000,4,April,Q2,Wednesday,False,Premium
+1296,2026-03-08,Kisumu,Tablet,5,In-store,28000,140000,3,March,Q1,Sunday,True,Premium
+1297,2026-04-22,Nairobi,Headphones,2,Online,2500,5000,4,April,Q2,Wednesday,False,Value
+1298,2026-01-19,Nakuru,Headphones,5,Online,2500,12500,1,January,Q1,Monday,False,Value
+1299,2026-05-18,Nairobi,Tablet,3,In-store,28000,84000,5,May,Q2,Monday,False,Premium
+1300,2026-02-18,Nairobi,Charger,2,Online,1200,2400,2,February,Q1,Wednesday,False,Value
+1301,2026-01-11,Nakuru,Laptop,1,Online,65000,65000,1,January,Q1,Sunday,True,Premium
+1302,2026-06-14,Kisumu,Phone,3,In-store,15000,45000,6,June,Q2,Sunday,True,Value
+1303,2026-03-06,Nakuru,Charger,4,In-store,1200,4800,3,March,Q1,Friday,False,Value
+1304,2026-02-27,Nairobi,Charger,1,In-store,1200,1200,2,February,Q1,Friday,False,Value
+1305,2026-01-09,Nairobi,Charger,2,In-store,1200,2400,1,January,Q1,Friday,False,Value
+1306,2026-04-16,Mombasa,Tablet,2,In-store,28000,56000,4,April,Q2,Thursday,False,Premium
+1307,2026-02-20,Kisumu,Headphones,1,Online,2500,2500,2,February,Q1,Friday,False,Value
+1308,2026-02-12,Nakuru,Charger,2,Online,1200,2400,2,February,Q1,Thursday,False,Value
+1309,2026-05-02,Eldoret,Headphones,1,Phone order,2500,2500,5,May,Q2,Saturday,True,Value
+1310,2026-05-01,Eldoret,Phone,3,Online,15000,45000,5,May,Q2,Friday,False,Value
+1311,2026-01-27,Nairobi,Headphones,5,In-store,2500,12500,1,January,Q1,Tuesday,False,Value
+1312,2026-01-23,Nakuru,Laptop,1,Online,65000,65000,1,January,Q1,Friday,False,Premium
+1313,2026-02-13,Eldoret,Phone,4,In-store,15000,60000,2,February,Q1,Friday,False,Value
+1314,2026-05-23,Nairobi,Phone,5,In-store,15000,75000,5,May,Q2,Saturday,True,Value
+1315,2026-02-17,Nairobi,Phone,1,In-store,15000,15000,2,February,Q1,Tuesday,False,Value
+1316,2026-03-18,Nairobi,Charger,5,In-store,1200,6000,3,March,Q1,Wednesday,False,Value
+1317,2026-01-24,Nakuru,Charger,5,Online,1200,6000,1,January,Q1,Saturday,True,Value
+1318,2026-02-03,Nakuru,Laptop,2,In-store,65000,130000,2,February,Q1,Tuesday,False,Premium
+1319,2026-04-30,Nairobi,Laptop,1,In-store,65000,65000,4,April,Q2,Thursday,False,Premium
+1320,2026-05-17,Eldoret,Laptop,5,In-store,65000,325000,5,May,Q2,Sunday,True,Premium
+1321,2026-06-05,Nairobi,Laptop,1,Phone order,65000,65000,6,June,Q2,Friday,False,Premium
+1322,2026-04-10,Kisumu,Headphones,3,In-store,2500,7500,4,April,Q2,Friday,False,Value
+1323,2026-02-19,Nairobi,Tablet,2,Online,28000,56000,2,February,Q1,Thursday,False,Premium
+1324,2026-03-20,Nakuru,Charger,2,Online,1200,2400,3,March,Q1,Friday,False,Value
+1325,2026-01-29,Nairobi,Charger,3,In-store,1200,3600,1,January,Q1,Thursday,False,Value
+1326,2026-02-13,Mombasa,Headphones,3,Online,2500,7500,2,February,Q1,Friday,False,Value
+1327,2026-03-28,Nairobi,Laptop,1,In-store,65000,65000,3,March,Q1,Saturday,True,Premium
+1328,2026-05-21,Kisumu,Phone,1,Online,15000,15000,5,May,Q2,Thursday,False,Value
+1329,2026-02-16,Nakuru,Laptop,5,In-store,65000,325000,2,February,Q1,Monday,False,Premium
+1330,2026-03-07,Nairobi,Laptop,4,In-store,65000,260000,3,March,Q1,Saturday,True,Premium
+1331,2026-01-07,Eldoret,Laptop,4,In-store,65000,260000,1,January,Q1,Wednesday,False,Premium
+1332,2026-01-08,Mombasa,Tablet,5,In-store,28000,140000,1,January,Q1,Thursday,False,Premium
+1333,2026-04-09,Nairobi,Tablet,1,Phone order,28000,28000,4,April,Q2,Thursday,False,Premium
+1334,2026-06-23,Nairobi,Headphones,1,Online,2500,2500,6,June,Q2,Tuesday,False,Value
+1335,2026-04-14,Nairobi,Headphones,3,Online,2500,7500,4,April,Q2,Tuesday,False,Value
+1336,2026-01-06,Nairobi,Laptop,1,In-store,65000,65000,1,January,Q1,Tuesday,False,Premium
+1337,2026-04-14,Nakuru,Laptop,2,Online,65000,130000,4,April,Q2,Tuesday,False,Premium
+1338,2026-01-22,Nairobi,Laptop,2,In-store,65000,130000,1,January,Q1,Thursday,False,Premium
+1339,2026-05-05,Kisumu,Headphones,1,In-store,2500,2500,5,May,Q2,Tuesday,False,Value
+1340,2026-03-25,Kisumu,Headphones,1,Phone order,2500,2500,3,March,Q1,Wednesday,False,Value
+1341,2026-03-07,Mombasa,Charger,5,Online,1200,6000,3,March,Q1,Saturday,True,Value
+1342,2026-02-07,Mombasa,Phone,1,In-store,15000,15000,2,February,Q1,Saturday,True,Value
+1343,2026-02-01,Nairobi,Headphones,2,Online,2500,5000,2,February,Q1,Sunday,True,Value
+1344,2026-03-02,Nairobi,Tablet,4,In-store,28000,112000,3,March,Q1,Monday,False,Premium
+1345,2026-03-23,Kisumu,Phone,2,Online,15000,30000,3,March,Q1,Monday,False,Value
+1346,2026-04-13,Nakuru,Charger,2,In-store,1200,2400,4,April,Q2,Monday,False,Value
+1347,2026-05-05,Mombasa,Headphones,2,Online,2500,5000,5,May,Q2,Tuesday,False,Value
+1348,2026-06-22,Nairobi,Phone,4,Phone order,15000,60000,6,June,Q2,Monday,False,Value
+1349,2026-01-06,Nakuru,Charger,5,Online,1200,6000,1,January,Q1,Tuesday,False,Value
+1350,2026-06-18,Nairobi,Tablet,2,In-store,28000,56000,6,June,Q2,Thursday,False,Premium
+1351,2026-04-12,Mombasa,Laptop,5,In-store,65000,325000,4,April,Q2,Sunday,True,Premium
+1352,2026-01-14,Eldoret,Laptop,3,In-store,65000,195000,1,January,Q1,Wednesday,False,Premium
+1353,2026-06-06,Mombasa,Phone,4,In-store,15000,60000,6,June,Q2,Saturday,True,Value
+1354,2026-06-03,Nairobi,Laptop,4,In-store,65000,260000,6,June,Q2,Wednesday,False,Premium
+1355,2026-02-21,Nairobi,Phone,3,Online,15000,45000,2,February,Q1,Saturday,True,Value
+1356,2026-01-31,Mombasa,Headphones,5,In-store,2500,12500,1,January,Q1,Saturday,True,Value
+1357,2026-02-24,Nakuru,Laptop,1,In-store,65000,65000,2,February,Q1,Tuesday,False,Premium
+1358,2026-05-27,Kisumu,Phone,3,Phone order,15000,45000,5,May,Q2,Wednesday,False,Value
+1359,2026-06-15,Nairobi,Laptop,2,In-store,65000,130000,6,June,Q2,Monday,False,Premium
+1360,2026-02-23,Nairobi,Laptop,2,Phone order,65000,130000,2,February,Q1,Monday,False,Premium
+1361,2026-03-27,Kisumu,Charger,2,In-store,1200,2400,3,March,Q1,Friday,False,Value
+1362,2026-05-10,Kisumu,Charger,4,In-store,1200,4800,5,May,Q2,Sunday,True,Value
+1363,2026-02-02,Nairobi,Tablet,4,In-store,28000,112000,2,February,Q1,Monday,False,Premium
+1364,2026-05-10,Mombasa,Headphones,2,Online,2500,5000,5,May,Q2,Sunday,True,Value
+1365,2026-02-10,Kisumu,Tablet,2,Phone order,28000,56000,2,February,Q1,Tuesday,False,Premium
+1366,2026-06-03,Nairobi,Charger,2,In-store,1200,2400,6,June,Q2,Wednesday,False,Value
+1367,2026-01-25,Nakuru,Laptop,5,Online,65000,325000,1,January,Q1,Sunday,True,Premium
+1368,2026-06-26,Nairobi,Laptop,1,In-store,65000,65000,6,June,Q2,Friday,False,Premium
+1369,2026-05-10,Nairobi,Laptop,5,In-store,65000,325000,5,May,Q2,Sunday,True,Premium
+1370,2026-02-19,Mombasa,Laptop,2,In-store,65000,130000,2,February,Q1,Thursday,False,Premium
+1371,2026-05-26,Nakuru,Phone,4,In-store,15000,60000,5,May,Q2,Tuesday,False,Value
+1372,2026-04-24,Kisumu,Headphones,3,In-store,2500,7500,4,April,Q2,Friday,False,Value
+1373,2026-03-27,Kisumu,Laptop,1,In-store,65000,65000,3,March,Q1,Friday,False,Premium
+1374,2026-05-14,Nairobi,Charger,4,Online,1200,4800,5,May,Q2,Thursday,False,Value
+1375,2026-05-05,Mombasa,Tablet,3,In-store,28000,84000,5,May,Q2,Tuesday,False,Premium
+1376,2026-01-15,Mombasa,Tablet,5,In-store,28000,140000,1,January,Q1,Thursday,False,Premium
+1377,2026-02-11,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Wednesday,False,Premium
+1378,2026-04-30,Nakuru,Laptop,2,Phone order,65000,130000,4,April,Q2,Thursday,False,Premium
+1379,2026-03-14,Nairobi,Tablet,2,In-store,28000,56000,3,March,Q1,Saturday,True,Premium
+1380,2026-02-27,Mombasa,Phone,4,In-store,15000,60000,2,February,Q1,Friday,False,Value
+1381,2026-04-09,Mombasa,Phone,1,In-store,15000,15000,4,April,Q2,Thursday,False,Value
+1382,2026-01-30,Kisumu,Laptop,4,Online,65000,260000,1,January,Q1,Friday,False,Premium
+1383,2026-06-26,Nakuru,Headphones,2,In-store,2500,5000,6,June,Q2,Friday,False,Value
+1384,2026-04-09,Nakuru,Headphones,5,Online,2500,12500,4,April,Q2,Thursday,False,Value
+1385,2026-01-02,Nairobi,Charger,3,Online,1200,3600,1,January,Q1,Friday,False,Value
+1386,2026-03-25,Nairobi,Phone,5,In-store,15000,75000,3,March,Q1,Wednesday,False,Value
+1387,2026-05-14,Mombasa,Charger,5,Online,1200,6000,5,May,Q2,Thursday,False,Value
+1388,2026-04-14,Nairobi,Phone,3,Phone order,15000,45000,4,April,Q2,Tuesday,False,Value
+1389,2026-04-02,Kisumu,Charger,2,In-store,1200,2400,4,April,Q2,Thursday,False,Value
+1390,2026-04-26,Mombasa,Tablet,3,In-store,28000,84000,4,April,Q2,Sunday,True,Premium
+1391,2026-01-05,Mombasa,Charger,2,In-store,1200,2400,1,January,Q1,Monday,False,Value
+1392,2026-03-31,Kisumu,Laptop,5,In-store,65000,325000,3,March,Q1,Tuesday,False,Premium
+1393,2026-03-14,Nairobi,Tablet,5,Online,28000,140000,3,March,Q1,Saturday,True,Premium
+1394,2026-06-12,Nakuru,Charger,1,Phone order,1200,1200,6,June,Q2,Friday,False,Value
+1395,2026-04-16,Kisumu,Laptop,2,In-store,65000,130000,4,April,Q2,Thursday,False,Premium
+1396,2026-02-02,Nakuru,Headphones,4,Online,2500,10000,2,February,Q1,Monday,False,Value
+1397,2026-06-03,Eldoret,Charger,5,In-store,1200,6000,6,June,Q2,Wednesday,False,Value
+1398,2026-02-21,Kisumu,Phone,5,Online,15000,75000,2,February,Q1,Saturday,True,Value
+1399,2026-06-29,Kisumu,Tablet,3,In-store,28000,84000,6,June,Q2,Monday,False,Premium
+1400,2026-03-06,Nakuru,Tablet,5,In-store,28000,140000,3,March,Q1,Friday,False,Premium
+1401,2026-06-02,Kisumu,Phone,4,Phone order,15000,60000,6,June,Q2,Tuesday,False,Value
+1402,2026-05-20,Eldoret,Phone,1,In-store,15000,15000,5,May,Q2,Wednesday,False,Value
+1403,2026-05-11,Mombasa,Charger,5,Online,1200,6000,5,May,Q2,Monday,False,Value
+1404,2026-04-28,Nairobi,Headphones,4,In-store,2500,10000,4,April,Q2,Tuesday,False,Value
+1405,2026-01-05,Nairobi,Headphones,5,Online,2500,12500,1,January,Q1,Monday,False,Value
+1406,2026-02-07,Eldoret,Headphones,3,In-store,2500,7500,2,February,Q1,Saturday,True,Value
+1407,2026-06-07,Nairobi,Laptop,2,In-store,65000,130000,6,June,Q2,Sunday,True,Premium
+1408,2026-05-14,Eldoret,Phone,1,In-store,15000,15000,5,May,Q2,Thursday,False,Value
+1409,2026-03-25,Nairobi,Laptop,1,Online,65000,65000,3,March,Q1,Wednesday,False,Premium
+1410,2026-05-19,Eldoret,Charger,4,In-store,1200,4800,5,May,Q2,Tuesday,False,Value
+1411,2026-04-29,Nairobi,Tablet,4,In-store,28000,112000,4,April,Q2,Wednesday,False,Premium
+1412,2026-05-19,Nairobi,Laptop,3,Online,65000,195000,5,May,Q2,Tuesday,False,Premium
+1413,2026-04-06,Nakuru,Phone,4,Online,15000,60000,4,April,Q2,Monday,False,Value
+1414,2026-01-15,Nairobi,Tablet,3,In-store,28000,84000,1,January,Q1,Thursday,False,Premium
+1415,2026-03-15,Mombasa,Tablet,2,Online,28000,56000,3,March,Q1,Sunday,True,Premium
+1416,2026-02-08,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Sunday,True,Premium
+1417,2026-06-05,Nairobi,Headphones,1,Online,2500,2500,6,June,Q2,Friday,False,Value
+1418,2026-06-11,Nakuru,Headphones,2,Online,2500,5000,6,June,Q2,Thursday,False,Value
+1419,2026-02-06,Mombasa,Laptop,5,In-store,65000,325000,2,February,Q1,Friday,False,Premium
+1420,2026-06-08,Nakuru,Charger,5,Online,1200,6000,6,June,Q2,Monday,False,Value
+1421,2026-03-01,Nairobi,Charger,3,In-store,1200,3600,3,March,Q1,Sunday,True,Value
+1422,2026-02-07,Mombasa,Phone,5,In-store,15000,75000,2,February,Q1,Saturday,True,Value
+1423,2026-02-18,Eldoret,Phone,2,Online,15000,30000,2,February,Q1,Wednesday,False,Value
+1424,2026-04-10,Eldoret,Headphones,1,Online,2500,2500,4,April,Q2,Friday,False,Value
+1425,2026-02-13,Mombasa,Headphones,1,In-store,2500,2500,2,February,Q1,Friday,False,Value
+1426,2026-02-17,Kisumu,Headphones,3,Online,2500,7500,2,February,Q1,Tuesday,False,Value
+1427,2026-05-06,Nairobi,Headphones,4,Phone order,2500,10000,5,May,Q2,Wednesday,False,Value
+1428,2026-03-16,Nairobi,Phone,1,In-store,15000,15000,3,March,Q1,Monday,False,Value
+1429,2026-05-06,Mombasa,Headphones,5,In-store,2500,12500,5,May,Q2,Wednesday,False,Value
+1430,2026-01-04,Mombasa,Headphones,1,In-store,2500,2500,1,January,Q1,Sunday,True,Value
+1431,2026-01-18,Nairobi,Charger,1,Online,1200,1200,1,January,Q1,Sunday,True,Value
+1432,2026-02-20,Kisumu,Charger,1,In-store,1200,1200,2,February,Q1,Friday,False,Value
+1433,2026-03-07,Nairobi,Laptop,4,Online,65000,260000,3,March,Q1,Saturday,True,Premium
+1434,2026-02-18,Eldoret,Charger,4,In-store,1200,4800,2,February,Q1,Wednesday,False,Value
+1435,2026-03-13,Nairobi,Phone,2,In-store,15000,30000,3,March,Q1,Friday,False,Value
+1436,2026-06-15,Kisumu,Headphones,4,Phone order,2500,10000,6,June,Q2,Monday,False,Value
+1437,2026-03-24,Mombasa,Laptop,1,Online,65000,65000,3,March,Q1,Tuesday,False,Premium
+1438,2026-04-16,Kisumu,Laptop,3,In-store,65000,195000,4,April,Q2,Thursday,False,Premium
+1439,2026-05-23,Mombasa,Laptop,2,In-store,65000,130000,5,May,Q2,Saturday,True,Premium
+1440,2026-02-01,Nairobi,Phone,1,Online,15000,15000,2,February,Q1,Sunday,True,Value
+1441,2026-01-26,Kisumu,Headphones,4,Online,2500,10000,1,January,Q1,Monday,False,Value
+1442,2026-03-18,Eldoret,Charger,1,Online,1200,1200,3,March,Q1,Wednesday,False,Value
+1443,2026-04-22,Kisumu,Phone,1,Online,15000,15000,4,April,Q2,Wednesday,False,Value
+1444,2026-03-30,Nairobi,Tablet,1,In-store,28000,28000,3,March,Q1,Monday,False,Premium
+1445,2026-01-22,Nairobi,Headphones,1,In-store,2500,2500,1,January,Q1,Thursday,False,Value
+1446,2026-04-25,Nairobi,Tablet,5,In-store,28000,140000,4,April,Q2,Saturday,True,Premium
+1447,2026-06-16,Nairobi,Headphones,2,In-store,2500,5000,6,June,Q2,Tuesday,False,Value
+1448,2026-04-06,Nairobi,Headphones,2,In-store,2500,5000,4,April,Q2,Monday,False,Value
+1449,2026-06-11,Eldoret,Laptop,4,Online,65000,260000,6,June,Q2,Thursday,False,Premium
+1450,2026-03-17,Nairobi,Phone,1,Phone order,15000,15000,3,March,Q1,Tuesday,False,Value
+1451,2026-03-14,Mombasa,Tablet,2,Online,28000,56000,3,March,Q1,Saturday,True,Premium
+1452,2026-02-25,Nairobi,Headphones,5,In-store,2500,12500,2,February,Q1,Wednesday,False,Value
+1453,2026-04-04,Nairobi,Headphones,5,Online,2500,12500,4,April,Q2,Saturday,True,Value
+1454,2026-04-14,Mombasa,Headphones,5,In-store,2500,12500,4,April,Q2,Tuesday,False,Value
+1455,2026-01-20,Mombasa,Phone,2,Online,15000,30000,1,January,Q1,Tuesday,False,Value
+1456,2026-06-25,Nairobi,Phone,3,In-store,15000,45000,6,June,Q2,Thursday,False,Value
+1457,2026-01-28,Kisumu,Charger,3,In-store,1200,3600,1,January,Q1,Wednesday,False,Value
+1458,2026-04-10,Eldoret,Laptop,2,In-store,65000,130000,4,April,Q2,Friday,False,Premium
+1459,2026-02-25,Nairobi,Laptop,1,In-store,65000,65000,2,February,Q1,Wednesday,False,Premium
+1460,2026-06-09,Nairobi,Tablet,2,Phone order,28000,56000,6,June,Q2,Tuesday,False,Premium
+1461,2026-04-26,Nakuru,Tablet,1,Online,28000,28000,4,April,Q2,Sunday,True,Premium
+1462,2026-01-03,Mombasa,Phone,3,In-store,15000,45000,1,January,Q1,Saturday,True,Value
+1463,2026-01-05,Nairobi,Headphones,5,In-store,2500,12500,1,January,Q1,Monday,False,Value
+1464,2026-02-06,Nairobi,Laptop,2,Online,65000,130000,2,February,Q1,Friday,False,Premium
+1465,2026-05-28,Eldoret,Headphones,1,Online,2500,2500,5,May,Q2,Thursday,False,Value
+1466,2026-06-05,Kisumu,Laptop,2,Phone order,65000,130000,6,June,Q2,Friday,False,Premium
+1467,2026-04-10,Mombasa,Tablet,4,Online,28000,112000,4,April,Q2,Friday,False,Premium
+1468,2026-04-13,Nairobi,Tablet,5,Online,28000,140000,4,April,Q2,Monday,False,Premium
+1469,2026-04-27,Eldoret,Laptop,5,Online,65000,325000,4,April,Q2,Monday,False,Premium
+1470,2026-03-29,Nairobi,Laptop,1,In-store,65000,65000,3,March,Q1,Sunday,True,Premium
+1471,2026-04-02,Nairobi,Headphones,1,Phone order,2500,2500,4,April,Q2,Thursday,False,Value
+1472,2026-03-08,Nakuru,Tablet,1,In-store,28000,28000,3,March,Q1,Sunday,True,Premium
+1473,2026-03-30,Nakuru,Laptop,2,In-store,65000,130000,3,March,Q1,Monday,False,Premium
+1474,2026-02-23,Nairobi,Laptop,1,Online,65000,65000,2,February,Q1,Monday,False,Premium
+1475,2026-05-15,Mombasa,Tablet,3,Online,28000,84000,5,May,Q2,Friday,False,Premium
+1476,2026-05-03,Nairobi,Headphones,1,Online,2500,2500,5,May,Q2,Sunday,True,Value
+1477,2026-05-10,Eldoret,Headphones,5,Online,2500,12500,5,May,Q2,Sunday,True,Value
+1478,2026-03-07,Nairobi,Phone,1,In-store,15000,15000,3,March,Q1,Saturday,True,Value
+1479,2026-03-13,Nairobi,Tablet,3,Online,28000,84000,3,March,Q1,Friday,False,Premium
+1480,2026-03-20,Kisumu,Headphones,5,Online,2500,12500,3,March,Q1,Friday,False,Value
+1481,2026-04-19,Eldoret,Phone,3,In-store,15000,45000,4,April,Q2,Sunday,True,Value
+1482,2026-05-20,Kisumu,Charger,5,Online,1200,6000,5,May,Q2,Wednesday,False,Value
+1483,2026-01-02,Mombasa,Laptop,2,In-store,65000,130000,1,January,Q1,Friday,False,Premium
+1484,2026-06-20,Nairobi,Tablet,5,In-store,28000,140000,6,June,Q2,Saturday,True,Premium
+1485,2026-06-05,Nairobi,Headphones,1,In-store,2500,2500,6,June,Q2,Friday,False,Value
+1486,2026-06-28,Nakuru,Tablet,2,In-store,28000,56000,6,June,Q2,Sunday,True,Premium
+1487,2026-02-19,Nairobi,Laptop,4,In-store,65000,260000,2,February,Q1,Thursday,False,Premium
+1488,2026-03-29,Eldoret,Charger,5,In-store,1200,6000,3,March,Q1,Sunday,True,Value
+1489,2026-04-09,Eldoret,Charger,5,Online,1200,6000,4,April,Q2,Thursday,False,Value
+1490,2026-01-25,Kisumu,Phone,5,In-store,15000,75000,1,January,Q1,Sunday,True,Value
+1491,2026-03-06,Nairobi,Charger,3,In-store,1200,3600,3,March,Q1,Friday,False,Value
+1492,2026-01-05,Eldoret,Tablet,2,In-store,28000,56000,1,January,Q1,Monday,False,Premium
+1493,2026-01-22,Nakuru,Phone,5,Online,15000,75000,1,January,Q1,Thursday,False,Value
+1494,2026-03-31,Kisumu,Tablet,3,Phone order,28000,84000,3,March,Q1,Tuesday,False,Premium
+1495,2026-02-26,Nairobi,Phone,1,In-store,15000,15000,2,February,Q1,Thursday,False,Value
+1496,2026-01-14,Kisumu,Tablet,4,Phone order,28000,112000,1,January,Q1,Wednesday,False,Premium
+1497,2026-05-31,Nakuru,Laptop,4,Online,65000,260000,5,May,Q2,Sunday,True,Premium
+1498,2026-01-22,Nairobi,Charger,1,Online,1200,1200,1,January,Q1,Thursday,False,Value
+1499,2026-02-11,Nairobi,Laptop,3,In-store,65000,195000,2,February,Q1,Wednesday,False,Premium
+1500,2026-02-12,Mombasa,Phone,4,Online,15000,60000,2,February,Q1,Thursday,False,Value
+1501,2026-04-03,Nakuru,Charger,4,In-store,1200,4800,4,April,Q2,Friday,False,Value
+1502,2026-06-28,Nairobi,Phone,4,In-store,15000,60000,6,June,Q2,Sunday,True,Value
+1503,2026-01-06,Kisumu,Charger,1,In-store,1200,1200,1,January,Q1,Tuesday,False,Value
+1504,2026-01-30,Mombasa,Charger,2,In-store,1200,2400,1,January,Q1,Friday,False,Value
+1505,2026-03-01,Kisumu,Phone,4,Online,15000,60000,3,March,Q1,Sunday,True,Value
+1506,2026-01-20,Nairobi,Headphones,4,In-store,2500,10000,1,January,Q1,Tuesday,False,Value
+1507,2026-01-02,Eldoret,Phone,4,Phone order,15000,60000,1,January,Q1,Friday,False,Value
+1508,2026-06-14,Nairobi,Charger,3,In-store,1200,3600,6,June,Q2,Sunday,True,Value
+1509,2026-02-10,Nakuru,Laptop,5,In-store,65000,325000,2,February,Q1,Tuesday,False,Premium
+1510,2026-04-22,Nairobi,Headphones,1,In-store,2500,2500,4,April,Q2,Wednesday,False,Value
+1511,2026-06-09,Kisumu,Charger,2,In-store,1200,2400,6,June,Q2,Tuesday,False,Value
+1512,2026-05-14,Nairobi,Headphones,3,In-store,2500,7500,5,May,Q2,Thursday,False,Value
+1513,2026-01-08,Nairobi,Charger,5,In-store,1200,6000,1,January,Q1,Thursday,False,Value
+1514,2026-03-05,Nakuru,Charger,1,In-store,1200,1200,3,March,Q1,Thursday,False,Value
+1515,2026-01-10,Nairobi,Headphones,3,In-store,2500,7500,1,January,Q1,Saturday,True,Value
+1516,2026-06-18,Mombasa,Headphones,3,In-store,2500,7500,6,June,Q2,Thursday,False,Value
+1517,2026-03-25,Kisumu,Laptop,2,In-store,65000,130000,3,March,Q1,Wednesday,False,Premium
+1518,2026-06-25,Nairobi,Phone,2,Online,15000,30000,6,June,Q2,Thursday,False,Value
+1519,2026-03-14,Kisumu,Tablet,3,Online,28000,84000,3,March,Q1,Saturday,True,Premium
+1520,2026-04-11,Eldoret,Headphones,1,In-store,2500,2500,4,April,Q2,Saturday,True,Value
+1521,2026-01-12,Mombasa,Tablet,3,In-store,28000,84000,1,January,Q1,Monday,False,Premium
+1522,2026-06-27,Nakuru,Laptop,1,In-store,65000,65000,6,June,Q2,Saturday,True,Premium
+1523,2026-06-04,Nairobi,Headphones,4,In-store,2500,10000,6,June,Q2,Thursday,False,Value
+1524,2026-04-02,Mombasa,Charger,1,Phone order,1200,1200,4,April,Q2,Thursday,False,Value
+1525,2026-02-11,Nairobi,Charger,1,In-store,1200,1200,2,February,Q1,Wednesday,False,Value
+1526,2026-03-21,Nairobi,Charger,4,Online,1200,4800,3,March,Q1,Saturday,True,Value
+1527,2026-03-20,Kisumu,Tablet,4,In-store,28000,112000,3,March,Q1,Friday,False,Premium
+1528,2026-05-22,Nairobi,Phone,5,Online,15000,75000,5,May,Q2,Friday,False,Value
+1529,2026-02-23,Eldoret,Headphones,2,Phone order,2500,5000,2,February,Q1,Monday,False,Value
+1530,2026-04-26,Kisumu,Laptop,2,Online,65000,130000,4,April,Q2,Sunday,True,Premium
+1531,2026-05-26,Nairobi,Laptop,2,Online,65000,130000,5,May,Q2,Tuesday,False,Premium
+1532,2026-02-06,Kisumu,Charger,3,Online,1200,3600,2,February,Q1,Friday,False,Value
+1533,2026-05-20,Nairobi,Headphones,5,In-store,2500,12500,5,May,Q2,Wednesday,False,Value
+1534,2026-04-03,Kisumu,Phone,5,In-store,15000,75000,4,April,Q2,Friday,False,Value
+1535,2026-02-06,Nakuru,Phone,5,Phone order,15000,75000,2,February,Q1,Friday,False,Value
+1536,2026-01-03,Nakuru,Phone,2,Online,15000,30000,1,January,Q1,Saturday,True,Value
+1537,2026-06-09,Nairobi,Headphones,5,Online,2500,12500,6,June,Q2,Tuesday,False,Value
+1538,2026-06-07,Nairobi,Phone,4,In-store,15000,60000,6,June,Q2,Sunday,True,Value
+1539,2026-01-12,Kisumu,Laptop,5,Online,65000,325000,1,January,Q1,Monday,False,Premium
+1540,2026-04-08,Nairobi,Charger,4,Online,1200,4800,4,April,Q2,Wednesday,False,Value
+1541,2026-01-17,Eldoret,Laptop,4,Online,65000,260000,1,January,Q1,Saturday,True,Premium
+1542,2026-01-09,Mombasa,Headphones,3,Phone order,2500,7500,1,January,Q1,Friday,False,Value
+1543,2026-01-11,Mombasa,Laptop,5,Phone order,65000,325000,1,January,Q1,Sunday,True,Premium
+1544,2026-06-18,Nakuru,Phone,5,Online,15000,75000,6,June,Q2,Thursday,False,Value
+1545,2026-04-02,Nakuru,Tablet,4,In-store,28000,112000,4,April,Q2,Thursday,False,Premium
+1546,2026-06-29,Mombasa,Laptop,1,In-store,65000,65000,6,June,Q2,Monday,False,Premium
+1547,2026-05-19,Mombasa,Tablet,2,In-store,28000,56000,5,May,Q2,Tuesday,False,Premium
+1548,2026-05-13,Nairobi,Phone,1,In-store,15000,15000,5,May,Q2,Wednesday,False,Value
+1549,2026-01-20,Eldoret,Tablet,5,Online,28000,140000,1,January,Q1,Tuesday,False,Premium
+1550,2026-03-19,Nakuru,Headphones,5,In-store,2500,12500,3,March,Q1,Thursday,False,Value
+1551,2026-04-12,Nairobi,Tablet,1,In-store,28000,28000,4,April,Q2,Sunday,True,Premium
+1552,2026-04-17,Nairobi,Laptop,3,Phone order,65000,195000,4,April,Q2,Friday,False,Premium
+1553,2026-01-25,Nakuru,Tablet,3,In-store,28000,84000,1,January,Q1,Sunday,True,Premium
+1554,2026-01-02,Mombasa,Tablet,2,Online,28000,56000,1,January,Q1,Friday,False,Premium
+1555,2026-04-21,Nairobi,Tablet,3,Online,28000,84000,4,April,Q2,Tuesday,False,Premium
+1556,2026-01-20,Nairobi,Charger,5,In-store,1200,6000,1,January,Q1,Tuesday,False,Value
+1557,2026-06-18,Kisumu,Charger,1,In-store,1200,1200,6,June,Q2,Thursday,False,Value
+1558,2026-03-01,Kisumu,Tablet,5,Online,28000,140000,3,March,Q1,Sunday,True,Premium
+1559,2026-06-16,Nairobi,Tablet,3,In-store,28000,84000,6,June,Q2,Tuesday,False,Premium
+1560,2026-03-16,Mombasa,Laptop,5,Phone order,65000,325000,3,March,Q1,Monday,False,Premium
+1561,2026-03-18,Nakuru,Phone,5,Online,15000,75000,3,March,Q1,Wednesday,False,Value
+1562,2026-05-17,Nakuru,Phone,1,In-store,15000,15000,5,May,Q2,Sunday,True,Value
+1563,2026-06-11,Kisumu,Charger,2,Online,1200,2400,6,June,Q2,Thursday,False,Value
+1564,2026-01-31,Nakuru,Laptop,3,In-store,65000,195000,1,January,Q1,Saturday,True,Premium
+1565,2026-03-21,Kisumu,Phone,2,In-store,15000,30000,3,March,Q1,Saturday,True,Value
+1566,2026-01-21,Nakuru,Headphones,5,Online,2500,12500,1,January,Q1,Wednesday,False,Value
+1567,2026-05-07,Nairobi,Phone,2,In-store,15000,30000,5,May,Q2,Thursday,False,Value
+1568,2026-05-06,Nairobi,Laptop,3,In-store,65000,195000,5,May,Q2,Wednesday,False,Premium
+1569,2026-01-26,Nairobi,Laptop,4,Phone order,65000,260000,1,January,Q1,Monday,False,Premium
+1570,2026-06-09,Mombasa,Phone,4,In-store,15000,60000,6,June,Q2,Tuesday,False,Value
+1571,2026-06-26,Nairobi,Phone,1,In-store,15000,15000,6,June,Q2,Friday,False,Value
+1572,2026-06-08,Nakuru,Tablet,5,In-store,28000,140000,6,June,Q2,Monday,False,Premium
+1573,2026-05-25,Nairobi,Tablet,5,In-store,28000,140000,5,May,Q2,Monday,False,Premium
+1574,2026-05-14,Nakuru,Headphones,4,In-store,2500,10000,5,May,Q2,Thursday,False,Value
+1575,2026-02-20,Nairobi,Tablet,3,Phone order,28000,84000,2,February,Q1,Friday,False,Premium
+1576,2026-06-27,Nairobi,Tablet,2,In-store,28000,56000,6,June,Q2,Saturday,True,Premium
+1577,2026-02-25,Nairobi,Charger,1,In-store,1200,1200,2,February,Q1,Wednesday,False,Value
+1578,2026-04-04,Nairobi,Laptop,4,In-store,65000,260000,4,April,Q2,Saturday,True,Premium
+1579,2026-05-07,Nairobi,Charger,2,In-store,1200,2400,5,May,Q2,Thursday,False,Value
+1580,2026-05-20,Nairobi,Laptop,5,In-store,65000,325000,5,May,Q2,Wednesday,False,Premium
+1581,2026-02-28,Eldoret,Headphones,3,In-store,2500,7500,2,February,Q1,Saturday,True,Value
+1582,2026-03-17,Mombasa,Tablet,3,Online,28000,84000,3,March,Q1,Tuesday,False,Premium
+1583,2026-03-27,Mombasa,Tablet,2,Phone order,28000,56000,3,March,Q1,Friday,False,Premium
+1584,2026-03-05,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Thursday,False,Value
+1585,2026-02-28,Nairobi,Headphones,5,In-store,2500,12500,2,February,Q1,Saturday,True,Value
+1586,2026-06-13,Kisumu,Laptop,4,In-store,65000,260000,6,June,Q2,Saturday,True,Premium
+1587,2026-02-13,Nairobi,Tablet,3,Online,28000,84000,2,February,Q1,Friday,False,Premium
+1588,2026-03-19,Nairobi,Charger,2,Phone order,1200,2400,3,March,Q1,Thursday,False,Value
+1589,2026-01-27,Nairobi,Headphones,2,In-store,2500,5000,1,January,Q1,Tuesday,False,Value
+1590,2026-05-15,Nakuru,Charger,2,Online,1200,2400,5,May,Q2,Friday,False,Value
+1591,2026-05-26,Eldoret,Laptop,4,Online,65000,260000,5,May,Q2,Tuesday,False,Premium
+1592,2026-03-31,Nairobi,Tablet,2,Online,28000,56000,3,March,Q1,Tuesday,False,Premium
+1593,2026-01-12,Nairobi,Headphones,3,In-store,2500,7500,1,January,Q1,Monday,False,Value
+1594,2026-01-21,Nairobi,Charger,5,In-store,1200,6000,1,January,Q1,Wednesday,False,Value
+1595,2026-02-15,Nairobi,Charger,2,In-store,1200,2400,2,February,Q1,Sunday,True,Value
+1596,2026-01-23,Nairobi,Headphones,4,In-store,2500,10000,1,January,Q1,Friday,False,Value
+1597,2026-02-10,Nakuru,Charger,2,In-store,1200,2400,2,February,Q1,Tuesday,False,Value
+1598,2026-04-02,Nairobi,Laptop,5,In-store,65000,325000,4,April,Q2,Thursday,False,Premium
+1599,2026-04-16,Nakuru,Laptop,2,In-store,65000,130000,4,April,Q2,Thursday,False,Premium
+1600,2026-05-08,Nairobi,Charger,1,In-store,1200,1200,5,May,Q2,Friday,False,Value
+1601,2026-06-17,Mombasa,Tablet,3,Online,28000,84000,6,June,Q2,Wednesday,False,Premium
+1602,2026-05-14,Nakuru,Tablet,1,Phone order,28000,28000,5,May,Q2,Thursday,False,Premium
+1603,2026-03-27,Nairobi,Tablet,3,Online,28000,84000,3,March,Q1,Friday,False,Premium
+1604,2026-03-02,Nakuru,Phone,5,In-store,15000,75000,3,March,Q1,Monday,False,Value
+1605,2026-06-06,Nakuru,Laptop,2,Online,65000,130000,6,June,Q2,Saturday,True,Premium
+1606,2026-01-02,Kisumu,Charger,3,In-store,1200,3600,1,January,Q1,Friday,False,Value
+1607,2026-05-12,Nairobi,Headphones,2,In-store,2500,5000,5,May,Q2,Tuesday,False,Value
+1608,2026-04-07,Nairobi,Charger,5,In-store,1200,6000,4,April,Q2,Tuesday,False,Value
+1609,2026-03-30,Mombasa,Phone,3,In-store,15000,45000,3,March,Q1,Monday,False,Value
+1610,2026-02-04,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Wednesday,False,Premium
+1611,2026-02-21,Nakuru,Tablet,2,Online,28000,56000,2,February,Q1,Saturday,True,Premium
+1612,2026-02-27,Nakuru,Headphones,2,Online,2500,5000,2,February,Q1,Friday,False,Value
+1613,2026-01-08,Mombasa,Charger,3,Phone order,1200,3600,1,January,Q1,Thursday,False,Value
+1614,2026-04-12,Kisumu,Headphones,4,Online,2500,10000,4,April,Q2,Sunday,True,Value
+1615,2026-04-13,Kisumu,Tablet,5,Phone order,28000,140000,4,April,Q2,Monday,False,Premium
+1616,2026-03-12,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Thursday,False,Value
+1617,2026-06-12,Nairobi,Charger,2,Online,1200,2400,6,June,Q2,Friday,False,Value
+1618,2026-03-24,Mombasa,Laptop,2,Phone order,65000,130000,3,March,Q1,Tuesday,False,Premium
+1619,2026-01-14,Mombasa,Tablet,3,Online,28000,84000,1,January,Q1,Wednesday,False,Premium
+1620,2026-01-10,Kisumu,Phone,3,In-store,15000,45000,1,January,Q1,Saturday,True,Value
+1621,2026-03-08,Kisumu,Laptop,1,In-store,65000,65000,3,March,Q1,Sunday,True,Premium
+1622,2026-02-02,Nairobi,Charger,4,Online,1200,4800,2,February,Q1,Monday,False,Value
+1623,2026-06-05,Eldoret,Phone,3,In-store,15000,45000,6,June,Q2,Friday,False,Value
+1624,2026-06-01,Nairobi,Tablet,3,In-store,28000,84000,6,June,Q2,Monday,False,Premium
+1625,2026-06-23,Nairobi,Laptop,1,Phone order,65000,65000,6,June,Q2,Tuesday,False,Premium
+1626,2026-04-03,Nairobi,Charger,3,In-store,1200,3600,4,April,Q2,Friday,False,Value
+1627,2026-03-29,Mombasa,Headphones,3,In-store,2500,7500,3,March,Q1,Sunday,True,Value
+1628,2026-06-09,Eldoret,Tablet,3,Online,28000,84000,6,June,Q2,Tuesday,False,Premium
+1629,2026-04-25,Kisumu,Charger,2,Online,1200,2400,4,April,Q2,Saturday,True,Value
+1630,2026-06-04,Mombasa,Laptop,5,In-store,65000,325000,6,June,Q2,Thursday,False,Premium
+1631,2026-02-05,Nakuru,Tablet,4,Online,28000,112000,2,February,Q1,Thursday,False,Premium
+1632,2026-02-04,Eldoret,Charger,5,In-store,1200,6000,2,February,Q1,Wednesday,False,Value
+1633,2026-01-11,Mombasa,Tablet,4,Online,28000,112000,1,January,Q1,Sunday,True,Premium
+1634,2026-03-13,Nakuru,Laptop,3,In-store,65000,195000,3,March,Q1,Friday,False,Premium
+1635,2026-05-22,Eldoret,Headphones,2,In-store,2500,5000,5,May,Q2,Friday,False,Value
+1636,2026-04-05,Nairobi,Charger,3,In-store,1200,3600,4,April,Q2,Sunday,True,Value
+1637,2026-04-09,Mombasa,Phone,3,In-store,15000,45000,4,April,Q2,Thursday,False,Value
+1638,2026-01-18,Kisumu,Laptop,1,In-store,65000,65000,1,January,Q1,Sunday,True,Premium
+1639,2026-01-23,Mombasa,Laptop,3,In-store,65000,195000,1,January,Q1,Friday,False,Premium
+1640,2026-01-16,Nairobi,Headphones,4,Online,2500,10000,1,January,Q1,Friday,False,Value
+1641,2026-03-08,Nairobi,Phone,1,Online,15000,15000,3,March,Q1,Sunday,True,Value
+1642,2026-06-01,Nakuru,Tablet,4,In-store,28000,112000,6,June,Q2,Monday,False,Premium
+1643,2026-05-14,Nakuru,Phone,5,Online,15000,75000,5,May,Q2,Thursday,False,Value
+1644,2026-05-29,Nairobi,Laptop,1,In-store,65000,65000,5,May,Q2,Friday,False,Premium
+1645,2026-02-23,Kisumu,Headphones,5,Online,2500,12500,2,February,Q1,Monday,False,Value
+1646,2026-03-10,Kisumu,Headphones,1,Online,2500,2500,3,March,Q1,Tuesday,False,Value
+1647,2026-06-22,Mombasa,Phone,2,In-store,15000,30000,6,June,Q2,Monday,False,Value
+1648,2026-05-08,Nairobi,Laptop,1,Online,65000,65000,5,May,Q2,Friday,False,Premium
+1649,2026-05-05,Nairobi,Tablet,5,In-store,28000,140000,5,May,Q2,Tuesday,False,Premium
+1650,2026-04-04,Kisumu,Phone,3,Phone order,15000,45000,4,April,Q2,Saturday,True,Value
+1651,2026-01-20,Mombasa,Charger,3,Phone order,1200,3600,1,January,Q1,Tuesday,False,Value
+1652,2026-05-15,Kisumu,Headphones,3,In-store,2500,7500,5,May,Q2,Friday,False,Value
+1653,2026-03-08,Kisumu,Tablet,3,Online,28000,84000,3,March,Q1,Sunday,True,Premium
+1654,2026-02-26,Eldoret,Headphones,1,In-store,2500,2500,2,February,Q1,Thursday,False,Value
+1655,2026-05-11,Kisumu,Charger,1,Online,1200,1200,5,May,Q2,Monday,False,Value
+1656,2026-03-27,Nairobi,Laptop,5,Phone order,65000,325000,3,March,Q1,Friday,False,Premium
+1657,2026-01-31,Nairobi,Phone,3,Online,15000,45000,1,January,Q1,Saturday,True,Value
+1658,2026-06-10,Mombasa,Laptop,1,In-store,65000,65000,6,June,Q2,Wednesday,False,Premium
+1659,2026-03-13,Nairobi,Tablet,1,In-store,28000,28000,3,March,Q1,Friday,False,Premium
+1660,2026-05-27,Mombasa,Phone,1,Phone order,15000,15000,5,May,Q2,Wednesday,False,Value
+1661,2026-03-15,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Sunday,True,Value
+1662,2026-02-25,Nairobi,Laptop,4,In-store,65000,260000,2,February,Q1,Wednesday,False,Premium
+1663,2026-05-25,Nairobi,Tablet,1,In-store,28000,28000,5,May,Q2,Monday,False,Premium
+1664,2026-06-08,Nairobi,Tablet,4,Online,28000,112000,6,June,Q2,Monday,False,Premium
+1665,2026-02-26,Nairobi,Phone,4,In-store,15000,60000,2,February,Q1,Thursday,False,Value
+1666,2026-03-13,Eldoret,Headphones,5,In-store,2500,12500,3,March,Q1,Friday,False,Value
+1667,2026-04-10,Nairobi,Headphones,4,Online,2500,10000,4,April,Q2,Friday,False,Value
+1668,2026-05-03,Eldoret,Phone,5,In-store,15000,75000,5,May,Q2,Sunday,True,Value
+1669,2026-04-01,Nairobi,Phone,1,In-store,15000,15000,4,April,Q2,Wednesday,False,Value
+1670,2026-05-09,Kisumu,Phone,5,Online,15000,75000,5,May,Q2,Saturday,True,Value
+1671,2026-05-29,Mombasa,Laptop,3,In-store,65000,195000,5,May,Q2,Friday,False,Premium
+1672,2026-03-14,Kisumu,Headphones,4,In-store,2500,10000,3,March,Q1,Saturday,True,Value
+1673,2026-06-02,Nakuru,Headphones,2,Online,2500,5000,6,June,Q2,Tuesday,False,Value
+1674,2026-05-29,Nairobi,Headphones,3,In-store,2500,7500,5,May,Q2,Friday,False,Value
+1675,2026-06-25,Kisumu,Charger,3,In-store,1200,3600,6,June,Q2,Thursday,False,Value
+1676,2026-03-25,Nairobi,Headphones,1,Phone order,2500,2500,3,March,Q1,Wednesday,False,Value
+1677,2026-06-02,Nakuru,Phone,1,Online,15000,15000,6,June,Q2,Tuesday,False,Value
+1678,2026-06-22,Mombasa,Headphones,3,In-store,2500,7500,6,June,Q2,Monday,False,Value
+1679,2026-06-19,Nairobi,Charger,5,In-store,1200,6000,6,June,Q2,Friday,False,Value
+1680,2026-06-18,Nairobi,Laptop,2,Online,65000,130000,6,June,Q2,Thursday,False,Premium
+1681,2026-03-12,Nairobi,Phone,1,Online,15000,15000,3,March,Q1,Thursday,False,Value
+1682,2026-06-12,Kisumu,Laptop,1,In-store,65000,65000,6,June,Q2,Friday,False,Premium
+1683,2026-03-20,Mombasa,Tablet,5,In-store,28000,140000,3,March,Q1,Friday,False,Premium
+1684,2026-06-13,Mombasa,Laptop,4,In-store,65000,260000,6,June,Q2,Saturday,True,Premium
+1685,2026-05-26,Kisumu,Headphones,4,Phone order,2500,10000,5,May,Q2,Tuesday,False,Value
+1686,2026-01-27,Nairobi,Tablet,1,Online,28000,28000,1,January,Q1,Tuesday,False,Premium
+1687,2026-01-24,Eldoret,Phone,3,Online,15000,45000,1,January,Q1,Saturday,True,Value
+1688,2026-04-27,Nakuru,Phone,4,Online,15000,60000,4,April,Q2,Monday,False,Value
+1689,2026-02-14,Kisumu,Tablet,5,Online,28000,140000,2,February,Q1,Saturday,True,Premium
+1690,2026-05-14,Nairobi,Tablet,5,Phone order,28000,140000,5,May,Q2,Thursday,False,Premium
+1691,2026-05-21,Nairobi,Laptop,5,Online,65000,325000,5,May,Q2,Thursday,False,Premium
+1692,2026-04-06,Nairobi,Charger,3,In-store,1200,3600,4,April,Q2,Monday,False,Value
+1693,2026-05-21,Kisumu,Tablet,3,In-store,28000,84000,5,May,Q2,Thursday,False,Premium
+1694,2026-04-06,Nairobi,Laptop,4,Online,65000,260000,4,April,Q2,Monday,False,Premium
+1695,2026-04-13,Nairobi,Phone,5,Phone order,15000,75000,4,April,Q2,Monday,False,Value
+1696,2026-02-06,Nakuru,Phone,1,In-store,15000,15000,2,February,Q1,Friday,False,Value
+1697,2026-04-16,Nairobi,Laptop,3,Online,65000,195000,4,April,Q2,Thursday,False,Premium
+1698,2026-01-29,Nairobi,Tablet,2,In-store,28000,56000,1,January,Q1,Thursday,False,Premium
+1699,2026-04-22,Nairobi,Tablet,5,Online,28000,140000,4,April,Q2,Wednesday,False,Premium
+1700,2026-05-21,Nairobi,Tablet,1,In-store,28000,28000,5,May,Q2,Thursday,False,Premium
+1701,2026-05-19,Mombasa,Laptop,2,In-store,65000,130000,5,May,Q2,Tuesday,False,Premium
+1702,2026-01-27,Mombasa,Tablet,2,Online,28000,56000,1,January,Q1,Tuesday,False,Premium
+1703,2026-05-23,Eldoret,Phone,1,Online,15000,15000,5,May,Q2,Saturday,True,Value
+1704,2026-05-12,Kisumu,Phone,1,Online,15000,15000,5,May,Q2,Tuesday,False,Value
+1705,2026-01-27,Nairobi,Headphones,3,In-store,2500,7500,1,January,Q1,Tuesday,False,Value
+1706,2026-01-14,Kisumu,Headphones,3,Online,2500,7500,1,January,Q1,Wednesday,False,Value
+1707,2026-04-28,Nairobi,Tablet,1,In-store,28000,28000,4,April,Q2,Tuesday,False,Premium
+1708,2026-03-16,Kisumu,Laptop,4,In-store,65000,260000,3,March,Q1,Monday,False,Premium
+1709,2026-03-31,Nairobi,Phone,2,In-store,15000,30000,3,March,Q1,Tuesday,False,Value
+1710,2026-01-05,Kisumu,Phone,4,In-store,15000,60000,1,January,Q1,Monday,False,Value
+1711,2026-02-12,Eldoret,Charger,5,Online,1200,6000,2,February,Q1,Thursday,False,Value
+1712,2026-04-29,Eldoret,Tablet,5,Phone order,28000,140000,4,April,Q2,Wednesday,False,Premium
+1713,2026-04-24,Mombasa,Laptop,4,In-store,65000,260000,4,April,Q2,Friday,False,Premium
+1714,2026-02-22,Nairobi,Headphones,5,In-store,2500,12500,2,February,Q1,Sunday,True,Value
+1715,2026-03-03,Nairobi,Charger,3,In-store,1200,3600,3,March,Q1,Tuesday,False,Value
+1716,2026-03-26,Nairobi,Charger,4,Online,1200,4800,3,March,Q1,Thursday,False,Value
+1717,2026-03-03,Nairobi,Tablet,5,In-store,28000,140000,3,March,Q1,Tuesday,False,Premium
+1718,2026-02-21,Nairobi,Laptop,4,Online,65000,260000,2,February,Q1,Saturday,True,Premium
+1719,2026-02-26,Nakuru,Phone,3,In-store,15000,45000,2,February,Q1,Thursday,False,Value
+1720,2026-04-03,Nairobi,Headphones,3,Online,2500,7500,4,April,Q2,Friday,False,Value
+1721,2026-04-10,Nairobi,Laptop,4,Online,65000,260000,4,April,Q2,Friday,False,Premium
+1722,2026-04-29,Nakuru,Laptop,1,In-store,65000,65000,4,April,Q2,Wednesday,False,Premium
+1723,2026-02-14,Nakuru,Tablet,5,In-store,28000,140000,2,February,Q1,Saturday,True,Premium
+1724,2026-01-31,Nairobi,Headphones,4,Online,2500,10000,1,January,Q1,Saturday,True,Value
+1725,2026-02-26,Mombasa,Headphones,5,Online,2500,12500,2,February,Q1,Thursday,False,Value
+1726,2026-05-20,Mombasa,Headphones,4,In-store,2500,10000,5,May,Q2,Wednesday,False,Value
+1727,2026-05-31,Kisumu,Phone,4,In-store,15000,60000,5,May,Q2,Sunday,True,Value
+1728,2026-05-21,Nairobi,Phone,5,Online,15000,75000,5,May,Q2,Thursday,False,Value
+1729,2026-03-12,Nakuru,Laptop,3,In-store,65000,195000,3,March,Q1,Thursday,False,Premium
+1730,2026-06-19,Nairobi,Charger,1,Online,1200,1200,6,June,Q2,Friday,False,Value
+1731,2026-04-13,Mombasa,Charger,3,In-store,1200,3600,4,April,Q2,Monday,False,Value
+1732,2026-03-10,Eldoret,Charger,5,Online,1200,6000,3,March,Q1,Tuesday,False,Value
+1733,2026-04-16,Nairobi,Charger,2,Phone order,1200,2400,4,April,Q2,Thursday,False,Value
+1734,2026-06-07,Nakuru,Charger,1,In-store,1200,1200,6,June,Q2,Sunday,True,Value
+1735,2026-03-20,Nairobi,Charger,3,Phone order,1200,3600,3,March,Q1,Friday,False,Value
+1736,2026-01-17,Nairobi,Headphones,1,Online,2500,2500,1,January,Q1,Saturday,True,Value
+1737,2026-02-25,Mombasa,Phone,4,In-store,15000,60000,2,February,Q1,Wednesday,False,Value
+1738,2026-06-28,Nairobi,Laptop,4,In-store,65000,260000,6,June,Q2,Sunday,True,Premium
+1739,2026-03-25,Mombasa,Laptop,2,Online,65000,130000,3,March,Q1,Wednesday,False,Premium
+1740,2026-02-08,Mombasa,Tablet,2,Online,28000,56000,2,February,Q1,Sunday,True,Premium
+1741,2026-06-08,Nakuru,Headphones,1,In-store,2500,2500,6,June,Q2,Monday,False,Value
+1742,2026-03-09,Nakuru,Charger,3,In-store,1200,3600,3,March,Q1,Monday,False,Value
+1743,2026-02-27,Nakuru,Laptop,1,In-store,65000,65000,2,February,Q1,Friday,False,Premium
+1744,2026-01-17,Mombasa,Tablet,2,In-store,28000,56000,1,January,Q1,Saturday,True,Premium
+1745,2026-06-20,Eldoret,Phone,1,In-store,15000,15000,6,June,Q2,Saturday,True,Value
+1746,2026-05-31,Nakuru,Phone,1,In-store,15000,15000,5,May,Q2,Sunday,True,Value
+1747,2026-03-12,Mombasa,Tablet,2,Online,28000,56000,3,March,Q1,Thursday,False,Premium
+1748,2026-03-29,Nairobi,Charger,5,Online,1200,6000,3,March,Q1,Sunday,True,Value
+1749,2026-02-15,Nairobi,Charger,3,In-store,1200,3600,2,February,Q1,Sunday,True,Value
+1750,2026-06-23,Kisumu,Headphones,5,Online,2500,12500,6,June,Q2,Tuesday,False,Value
+1751,2026-06-15,Mombasa,Headphones,5,In-store,2500,12500,6,June,Q2,Monday,False,Value
+1752,2026-01-27,Nairobi,Phone,2,In-store,15000,30000,1,January,Q1,Tuesday,False,Value
+1753,2026-02-13,Nakuru,Phone,1,In-store,15000,15000,2,February,Q1,Friday,False,Value
+1754,2026-06-10,Kisumu,Laptop,2,In-store,65000,130000,6,June,Q2,Wednesday,False,Premium
+1755,2026-02-09,Nairobi,Charger,4,In-store,1200,4800,2,February,Q1,Monday,False,Value
+1756,2026-03-06,Nakuru,Charger,4,Online,1200,4800,3,March,Q1,Friday,False,Value
+1757,2026-05-26,Mombasa,Charger,5,In-store,1200,6000,5,May,Q2,Tuesday,False,Value
+1758,2026-02-12,Nairobi,Headphones,3,In-store,2500,7500,2,February,Q1,Thursday,False,Value
+1759,2026-06-02,Mombasa,Headphones,3,Online,2500,7500,6,June,Q2,Tuesday,False,Value
+1760,2026-04-29,Mombasa,Tablet,4,Phone order,28000,112000,4,April,Q2,Wednesday,False,Premium
+1761,2026-02-03,Eldoret,Tablet,4,In-store,28000,112000,2,February,Q1,Tuesday,False,Premium
+1762,2026-01-06,Kisumu,Headphones,5,Online,2500,12500,1,January,Q1,Tuesday,False,Value
+1763,2026-01-31,Nairobi,Laptop,4,In-store,65000,260000,1,January,Q1,Saturday,True,Premium
+1764,2026-04-05,Mombasa,Phone,5,In-store,15000,75000,4,April,Q2,Sunday,True,Value
+1765,2026-06-22,Nairobi,Laptop,3,In-store,65000,195000,6,June,Q2,Monday,False,Premium
+1766,2026-03-27,Nairobi,Tablet,3,In-store,28000,84000,3,March,Q1,Friday,False,Premium
+1767,2026-01-24,Nakuru,Phone,2,Phone order,15000,30000,1,January,Q1,Saturday,True,Value
+1768,2026-01-09,Mombasa,Laptop,4,In-store,65000,260000,1,January,Q1,Friday,False,Premium
+1769,2026-02-03,Nakuru,Tablet,4,In-store,28000,112000,2,February,Q1,Tuesday,False,Premium
+1770,2026-03-20,Nairobi,Phone,1,Online,15000,15000,3,March,Q1,Friday,False,Value
+1771,2026-03-21,Kisumu,Tablet,3,Online,28000,84000,3,March,Q1,Saturday,True,Premium
+1772,2026-02-24,Nairobi,Tablet,5,Online,28000,140000,2,February,Q1,Tuesday,False,Premium
+1773,2026-04-22,Nairobi,Tablet,4,In-store,28000,112000,4,April,Q2,Wednesday,False,Premium
+1774,2026-02-14,Mombasa,Tablet,2,In-store,28000,56000,2,February,Q1,Saturday,True,Premium
+1775,2026-02-15,Eldoret,Charger,5,In-store,1200,6000,2,February,Q1,Sunday,True,Value
+1776,2026-06-17,Kisumu,Laptop,3,Online,65000,195000,6,June,Q2,Wednesday,False,Premium
+1777,2026-04-07,Nairobi,Headphones,4,Online,2500,10000,4,April,Q2,Tuesday,False,Value
+1778,2026-04-18,Nairobi,Phone,4,In-store,15000,60000,4,April,Q2,Saturday,True,Value
+1779,2026-04-13,Nairobi,Laptop,1,In-store,65000,65000,4,April,Q2,Monday,False,Premium
+1780,2026-01-28,Kisumu,Charger,2,In-store,1200,2400,1,January,Q1,Wednesday,False,Value
+1781,2026-04-15,Eldoret,Charger,5,Phone order,1200,6000,4,April,Q2,Wednesday,False,Value
+1782,2026-05-17,Kisumu,Tablet,5,In-store,28000,140000,5,May,Q2,Sunday,True,Premium
+1783,2026-01-08,Nakuru,Charger,1,In-store,1200,1200,1,January,Q1,Thursday,False,Value
+1784,2026-03-08,Nairobi,Phone,3,Online,15000,45000,3,March,Q1,Sunday,True,Value
+1785,2026-02-20,Nakuru,Phone,4,Online,15000,60000,2,February,Q1,Friday,False,Value
+1786,2026-04-18,Mombasa,Tablet,5,Online,28000,140000,4,April,Q2,Saturday,True,Premium
+1787,2026-06-13,Kisumu,Tablet,3,Online,28000,84000,6,June,Q2,Saturday,True,Premium
+1788,2026-03-10,Nairobi,Laptop,2,In-store,65000,130000,3,March,Q1,Tuesday,False,Premium
+1789,2026-01-12,Kisumu,Headphones,5,Online,2500,12500,1,January,Q1,Monday,False,Value
+1790,2026-04-25,Nairobi,Tablet,4,In-store,28000,112000,4,April,Q2,Saturday,True,Premium
+1791,2026-02-25,Nairobi,Tablet,5,In-store,28000,140000,2,February,Q1,Wednesday,False,Premium
+1792,2026-05-03,Nairobi,Charger,1,Online,1200,1200,5,May,Q2,Sunday,True,Value
+1793,2026-01-26,Mombasa,Phone,3,Online,15000,45000,1,January,Q1,Monday,False,Value
+1794,2026-02-21,Nairobi,Phone,1,Phone order,15000,15000,2,February,Q1,Saturday,True,Value
+1795,2026-03-11,Kisumu,Laptop,1,In-store,65000,65000,3,March,Q1,Wednesday,False,Premium
+1796,2026-05-30,Kisumu,Headphones,3,In-store,2500,7500,5,May,Q2,Saturday,True,Value
+1797,2026-04-10,Nairobi,Phone,4,Phone order,15000,60000,4,April,Q2,Friday,False,Value
+1798,2026-04-22,Nakuru,Tablet,5,Phone order,28000,140000,4,April,Q2,Wednesday,False,Premium
+1799,2026-05-07,Kisumu,Headphones,3,In-store,2500,7500,5,May,Q2,Thursday,False,Value
+1800,2026-04-19,Eldoret,Charger,3,In-store,1200,3600,4,April,Q2,Sunday,True,Value
+1801,2026-06-08,Nakuru,Charger,3,In-store,1200,3600,6,June,Q2,Monday,False,Value
+1802,2026-02-09,Eldoret,Tablet,3,In-store,28000,84000,2,February,Q1,Monday,False,Premium
+1803,2026-04-25,Eldoret,Charger,2,In-store,1200,2400,4,April,Q2,Saturday,True,Value
+1804,2026-02-15,Eldoret,Tablet,5,In-store,28000,140000,2,February,Q1,Sunday,True,Premium
+1805,2026-04-11,Eldoret,Phone,5,In-store,15000,75000,4,April,Q2,Saturday,True,Value
+1806,2026-03-13,Eldoret,Charger,2,In-store,1200,2400,3,March,Q1,Friday,False,Value
+1807,2026-06-15,Nairobi,Tablet,5,In-store,28000,140000,6,June,Q2,Monday,False,Premium
+1808,2026-01-07,Nairobi,Phone,5,In-store,15000,75000,1,January,Q1,Wednesday,False,Value
+1809,2026-04-09,Eldoret,Headphones,4,In-store,2500,10000,4,April,Q2,Thursday,False,Value
+1810,2026-01-10,Nairobi,Tablet,4,Phone order,28000,112000,1,January,Q1,Saturday,True,Premium
+1811,2026-03-07,Nakuru,Laptop,4,In-store,65000,260000,3,March,Q1,Saturday,True,Premium
+1812,2026-04-30,Eldoret,Tablet,4,In-store,28000,112000,4,April,Q2,Thursday,False,Premium
+1813,2026-02-12,Kisumu,Charger,3,Online,1200,3600,2,February,Q1,Thursday,False,Value
+1814,2026-02-26,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Thursday,False,Premium
+1815,2026-05-02,Kisumu,Headphones,1,In-store,2500,2500,5,May,Q2,Saturday,True,Value
+1816,2026-05-10,Nakuru,Headphones,5,Online,2500,12500,5,May,Q2,Sunday,True,Value
+1817,2026-04-27,Nairobi,Tablet,3,Online,28000,84000,4,April,Q2,Monday,False,Premium
+1818,2026-01-14,Nakuru,Headphones,5,In-store,2500,12500,1,January,Q1,Wednesday,False,Value
+1819,2026-03-02,Kisumu,Headphones,5,Phone order,2500,12500,3,March,Q1,Monday,False,Value
+1820,2026-05-14,Eldoret,Phone,2,In-store,15000,30000,5,May,Q2,Thursday,False,Value
+1821,2026-06-05,Nairobi,Headphones,5,Online,2500,12500,6,June,Q2,Friday,False,Value
+1822,2026-02-08,Eldoret,Laptop,3,Online,65000,195000,2,February,Q1,Sunday,True,Premium
+1823,2026-03-13,Nairobi,Laptop,3,In-store,65000,195000,3,March,Q1,Friday,False,Premium
+1824,2026-06-06,Kisumu,Phone,4,In-store,15000,60000,6,June,Q2,Saturday,True,Value
+1825,2026-01-23,Eldoret,Tablet,5,In-store,28000,140000,1,January,Q1,Friday,False,Premium
+1826,2026-06-13,Mombasa,Tablet,3,In-store,28000,84000,6,June,Q2,Saturday,True,Premium
+1827,2026-03-09,Nairobi,Tablet,5,In-store,28000,140000,3,March,Q1,Monday,False,Premium
+1828,2026-05-05,Eldoret,Charger,2,In-store,1200,2400,5,May,Q2,Tuesday,False,Value
+1829,2026-03-21,Mombasa,Charger,2,In-store,1200,2400,3,March,Q1,Saturday,True,Value
+1830,2026-03-12,Nairobi,Phone,5,In-store,15000,75000,3,March,Q1,Thursday,False,Value
+1831,2026-03-09,Eldoret,Tablet,5,Online,28000,140000,3,March,Q1,Monday,False,Premium
+1832,2026-01-05,Nakuru,Charger,4,In-store,1200,4800,1,January,Q1,Monday,False,Value
+1833,2026-06-13,Eldoret,Headphones,2,In-store,2500,5000,6,June,Q2,Saturday,True,Value
+1834,2026-05-18,Kisumu,Laptop,3,In-store,65000,195000,5,May,Q2,Monday,False,Premium
+1835,2026-06-16,Nairobi,Laptop,3,In-store,65000,195000,6,June,Q2,Tuesday,False,Premium
+1836,2026-04-12,Mombasa,Phone,3,Online,15000,45000,4,April,Q2,Sunday,True,Value
+1837,2026-06-22,Mombasa,Charger,3,In-store,1200,3600,6,June,Q2,Monday,False,Value
+1838,2026-01-15,Mombasa,Laptop,4,In-store,65000,260000,1,January,Q1,Thursday,False,Premium
+1839,2026-03-06,Nairobi,Phone,1,Online,15000,15000,3,March,Q1,Friday,False,Value
+1840,2026-04-13,Nairobi,Headphones,2,Online,2500,5000,4,April,Q2,Monday,False,Value
+1841,2026-03-28,Nairobi,Tablet,4,In-store,28000,112000,3,March,Q1,Saturday,True,Premium
+1842,2026-01-02,Nairobi,Charger,4,In-store,1200,4800,1,January,Q1,Friday,False,Value
+1843,2026-01-19,Nairobi,Phone,1,In-store,15000,15000,1,January,Q1,Monday,False,Value
+1844,2026-03-23,Mombasa,Headphones,1,In-store,2500,2500,3,March,Q1,Monday,False,Value
+1845,2026-05-29,Kisumu,Headphones,3,Online,2500,7500,5,May,Q2,Friday,False,Value
+1846,2026-04-21,Mombasa,Phone,2,Online,15000,30000,4,April,Q2,Tuesday,False,Value
+1847,2026-02-21,Mombasa,Tablet,2,In-store,28000,56000,2,February,Q1,Saturday,True,Premium
+1848,2026-05-25,Nairobi,Laptop,5,Online,65000,325000,5,May,Q2,Monday,False,Premium
+1849,2026-06-10,Nairobi,Laptop,4,Phone order,65000,260000,6,June,Q2,Wednesday,False,Premium
+1850,2026-02-22,Nairobi,Tablet,1,In-store,28000,28000,2,February,Q1,Sunday,True,Premium
+1851,2026-06-15,Nairobi,Tablet,1,Online,28000,28000,6,June,Q2,Monday,False,Premium
+1852,2026-02-11,Nairobi,Headphones,4,In-store,2500,10000,2,February,Q1,Wednesday,False,Value
+1853,2026-04-14,Mombasa,Tablet,5,In-store,28000,140000,4,April,Q2,Tuesday,False,Premium
+1854,2026-03-01,Nairobi,Tablet,4,Online,28000,112000,3,March,Q1,Sunday,True,Premium
+1855,2026-05-10,Nairobi,Charger,4,Online,1200,4800,5,May,Q2,Sunday,True,Value
+1856,2026-01-11,Nakuru,Phone,4,Online,15000,60000,1,January,Q1,Sunday,True,Value
+1857,2026-01-10,Nairobi,Phone,3,Phone order,15000,45000,1,January,Q1,Saturday,True,Value
+1858,2026-06-17,Nairobi,Headphones,1,In-store,2500,2500,6,June,Q2,Wednesday,False,Value
+1859,2026-02-01,Nakuru,Laptop,2,In-store,65000,130000,2,February,Q1,Sunday,True,Premium
+1860,2026-06-08,Nakuru,Laptop,5,Online,65000,325000,6,June,Q2,Monday,False,Premium
+1861,2026-05-01,Kisumu,Tablet,3,In-store,28000,84000,5,May,Q2,Friday,False,Premium
+1862,2026-04-19,Mombasa,Phone,2,In-store,15000,30000,4,April,Q2,Sunday,True,Value
+1863,2026-05-11,Nairobi,Headphones,4,Online,2500,10000,5,May,Q2,Monday,False,Value
+1864,2026-01-14,Nakuru,Laptop,1,Online,65000,65000,1,January,Q1,Wednesday,False,Premium
+1865,2026-01-10,Kisumu,Charger,1,In-store,1200,1200,1,January,Q1,Saturday,True,Value
+1866,2026-01-16,Eldoret,Headphones,1,In-store,2500,2500,1,January,Q1,Friday,False,Value
+1867,2026-01-04,Nairobi,Charger,5,In-store,1200,6000,1,January,Q1,Sunday,True,Value
+1868,2026-06-17,Nairobi,Headphones,3,Online,2500,7500,6,June,Q2,Wednesday,False,Value
+1869,2026-03-22,Eldoret,Phone,2,Phone order,15000,30000,3,March,Q1,Sunday,True,Value
+1870,2026-01-23,Nairobi,Laptop,4,Online,65000,260000,1,January,Q1,Friday,False,Premium
+1871,2026-02-26,Eldoret,Headphones,1,In-store,2500,2500,2,February,Q1,Thursday,False,Value
+1872,2026-01-27,Nakuru,Headphones,4,In-store,2500,10000,1,January,Q1,Tuesday,False,Value
+1873,2026-06-12,Nairobi,Phone,3,In-store,15000,45000,6,June,Q2,Friday,False,Value
+1874,2026-05-22,Kisumu,Laptop,5,In-store,65000,325000,5,May,Q2,Friday,False,Premium
+1875,2026-01-02,Nairobi,Laptop,3,Phone order,65000,195000,1,January,Q1,Friday,False,Premium
+1876,2026-02-24,Nakuru,Headphones,2,In-store,2500,5000,2,February,Q1,Tuesday,False,Value
+1877,2026-04-29,Kisumu,Laptop,4,In-store,65000,260000,4,April,Q2,Wednesday,False,Premium
+1878,2026-03-16,Kisumu,Tablet,1,In-store,28000,28000,3,March,Q1,Monday,False,Premium
+1879,2026-02-10,Nairobi,Tablet,3,Online,28000,84000,2,February,Q1,Tuesday,False,Premium
+1880,2026-03-15,Nairobi,Tablet,2,In-store,28000,56000,3,March,Q1,Sunday,True,Premium
+1881,2026-03-18,Mombasa,Tablet,2,In-store,28000,56000,3,March,Q1,Wednesday,False,Premium
+1882,2026-05-07,Kisumu,Headphones,1,In-store,2500,2500,5,May,Q2,Thursday,False,Value
+1883,2026-04-10,Eldoret,Laptop,3,In-store,65000,195000,4,April,Q2,Friday,False,Premium
+1884,2026-03-27,Nairobi,Phone,4,In-store,15000,60000,3,March,Q1,Friday,False,Value
+1885,2026-04-21,Mombasa,Laptop,1,In-store,65000,65000,4,April,Q2,Tuesday,False,Premium
+1886,2026-05-27,Nakuru,Laptop,4,Phone order,65000,260000,5,May,Q2,Wednesday,False,Premium
+1887,2026-01-17,Nairobi,Headphones,4,Online,2500,10000,1,January,Q1,Saturday,True,Value
+1888,2026-03-31,Kisumu,Tablet,3,In-store,28000,84000,3,March,Q1,Tuesday,False,Premium
+1889,2026-05-17,Nakuru,Charger,5,Online,1200,6000,5,May,Q2,Sunday,True,Value
+1890,2026-02-22,Kisumu,Laptop,2,In-store,65000,130000,2,February,Q1,Sunday,True,Premium
+1891,2026-06-06,Nairobi,Laptop,1,In-store,65000,65000,6,June,Q2,Saturday,True,Premium
+1892,2026-02-05,Kisumu,Tablet,3,In-store,28000,84000,2,February,Q1,Thursday,False,Premium
+1893,2026-01-07,Nairobi,Charger,1,In-store,1200,1200,1,January,Q1,Wednesday,False,Value
+1894,2026-05-16,Nairobi,Phone,4,In-store,15000,60000,5,May,Q2,Saturday,True,Value
+1895,2026-05-18,Nakuru,Headphones,1,Online,2500,2500,5,May,Q2,Monday,False,Value
+1896,2026-02-09,Kisumu,Phone,1,Online,15000,15000,2,February,Q1,Monday,False,Value
+1897,2026-06-28,Nairobi,Laptop,5,Phone order,65000,325000,6,June,Q2,Sunday,True,Premium
+1898,2026-04-20,Kisumu,Charger,3,Phone order,1200,3600,4,April,Q2,Monday,False,Value
+1899,2026-01-07,Mombasa,Headphones,3,In-store,2500,7500,1,January,Q1,Wednesday,False,Value
+1900,2026-04-19,Nakuru,Tablet,2,Online,28000,56000,4,April,Q2,Sunday,True,Premium
+1901,2026-03-04,Kisumu,Headphones,3,Online,2500,7500,3,March,Q1,Wednesday,False,Value
+1902,2026-06-23,Nakuru,Phone,4,In-store,15000,60000,6,June,Q2,Tuesday,False,Value
+1903,2026-02-19,Kisumu,Headphones,3,In-store,2500,7500,2,February,Q1,Thursday,False,Value
+1904,2026-01-17,Nairobi,Charger,3,In-store,1200,3600,1,January,Q1,Saturday,True,Value
+1905,2026-06-07,Mombasa,Charger,2,In-store,1200,2400,6,June,Q2,Sunday,True,Value
+1906,2026-02-07,Nairobi,Charger,3,Online,1200,3600,2,February,Q1,Saturday,True,Value
+1907,2026-03-01,Nairobi,Phone,1,Online,15000,15000,3,March,Q1,Sunday,True,Value
+1908,2026-04-30,Nairobi,Headphones,3,In-store,2500,7500,4,April,Q2,Thursday,False,Value
+1909,2026-03-01,Mombasa,Phone,2,Online,15000,30000,3,March,Q1,Sunday,True,Value
+1910,2026-03-01,Nairobi,Laptop,2,In-store,65000,130000,3,March,Q1,Sunday,True,Premium
+1911,2026-03-31,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Tuesday,False,Value
+1912,2026-01-24,Nakuru,Laptop,5,In-store,65000,325000,1,January,Q1,Saturday,True,Premium
+1913,2026-04-08,Nairobi,Charger,5,In-store,1200,6000,4,April,Q2,Wednesday,False,Value
+1914,2026-06-11,Mombasa,Laptop,1,Online,65000,65000,6,June,Q2,Thursday,False,Premium
+1915,2026-06-28,Kisumu,Tablet,4,Phone order,28000,112000,6,June,Q2,Sunday,True,Premium
+1916,2026-05-12,Nairobi,Tablet,2,In-store,28000,56000,5,May,Q2,Tuesday,False,Premium
+1917,2026-04-17,Mombasa,Laptop,2,In-store,65000,130000,4,April,Q2,Friday,False,Premium
+1918,2026-02-10,Nairobi,Laptop,2,In-store,65000,130000,2,February,Q1,Tuesday,False,Premium
+1919,2026-06-07,Nakuru,Phone,2,In-store,15000,30000,6,June,Q2,Sunday,True,Value
+1920,2026-01-18,Nairobi,Tablet,1,Online,28000,28000,1,January,Q1,Sunday,True,Premium
+1921,2026-05-08,Nairobi,Laptop,4,In-store,65000,260000,5,May,Q2,Friday,False,Premium
+1922,2026-06-01,Mombasa,Charger,4,Phone order,1200,4800,6,June,Q2,Monday,False,Value
+1923,2026-03-25,Kisumu,Headphones,5,Online,2500,12500,3,March,Q1,Wednesday,False,Value
+1924,2026-04-13,Nakuru,Tablet,1,Phone order,28000,28000,4,April,Q2,Monday,False,Premium
+1925,2026-05-27,Mombasa,Phone,1,Phone order,15000,15000,5,May,Q2,Wednesday,False,Value
+1926,2026-06-17,Eldoret,Phone,4,Online,15000,60000,6,June,Q2,Wednesday,False,Value
+1927,2026-01-06,Kisumu,Charger,3,In-store,1200,3600,1,January,Q1,Tuesday,False,Value
+1928,2026-04-04,Eldoret,Laptop,4,Online,65000,260000,4,April,Q2,Saturday,True,Premium
+1929,2026-03-15,Nakuru,Phone,3,In-store,15000,45000,3,March,Q1,Sunday,True,Value
+1930,2026-02-11,Nakuru,Phone,2,In-store,15000,30000,2,February,Q1,Wednesday,False,Value
+1931,2026-06-05,Nairobi,Charger,1,In-store,1200,1200,6,June,Q2,Friday,False,Value
+1932,2026-01-25,Nakuru,Headphones,2,In-store,2500,5000,1,January,Q1,Sunday,True,Value
+1933,2026-03-02,Kisumu,Tablet,1,In-store,28000,28000,3,March,Q1,Monday,False,Premium
+1934,2026-03-17,Nairobi,Laptop,3,In-store,65000,195000,3,March,Q1,Tuesday,False,Premium
+1935,2026-02-10,Nairobi,Charger,2,Phone order,1200,2400,2,February,Q1,Tuesday,False,Value
+1936,2026-05-04,Nairobi,Laptop,2,In-store,65000,130000,5,May,Q2,Monday,False,Premium
+1937,2026-04-26,Mombasa,Phone,5,In-store,15000,75000,4,April,Q2,Sunday,True,Value
+1938,2026-01-01,Nairobi,Phone,2,In-store,15000,30000,1,January,Q1,Thursday,False,Value
+1939,2026-01-29,Mombasa,Tablet,5,Online,28000,140000,1,January,Q1,Thursday,False,Premium
+1940,2026-03-13,Nairobi,Tablet,4,Phone order,28000,112000,3,March,Q1,Friday,False,Premium
+1941,2026-06-08,Nairobi,Phone,4,In-store,15000,60000,6,June,Q2,Monday,False,Value
+1942,2026-03-14,Nairobi,Tablet,2,In-store,28000,56000,3,March,Q1,Saturday,True,Premium
+1943,2026-03-18,Nairobi,Tablet,5,In-store,28000,140000,3,March,Q1,Wednesday,False,Premium
+1944,2026-05-01,Eldoret,Headphones,4,Phone order,2500,10000,5,May,Q2,Friday,False,Value
+1945,2026-05-22,Kisumu,Tablet,4,In-store,28000,112000,5,May,Q2,Friday,False,Premium
+1946,2026-02-05,Kisumu,Phone,2,In-store,15000,30000,2,February,Q1,Thursday,False,Value
+1947,2026-05-01,Eldoret,Charger,1,In-store,1200,1200,5,May,Q2,Friday,False,Value
+1948,2026-06-07,Mombasa,Tablet,5,Online,28000,140000,6,June,Q2,Sunday,True,Premium
+1949,2026-06-10,Eldoret,Phone,1,In-store,15000,15000,6,June,Q2,Wednesday,False,Value
+1950,2026-02-28,Kisumu,Charger,5,Online,1200,6000,2,February,Q1,Saturday,True,Value
+1951,2026-05-19,Mombasa,Charger,5,Online,1200,6000,5,May,Q2,Tuesday,False,Value
+1952,2026-05-29,Kisumu,Charger,4,Online,1200,4800,5,May,Q2,Friday,False,Value
+1953,2026-01-28,Mombasa,Laptop,3,In-store,65000,195000,1,January,Q1,Wednesday,False,Premium
+1954,2026-05-29,Nairobi,Charger,2,Online,1200,2400,5,May,Q2,Friday,False,Value
+1955,2026-06-16,Nairobi,Headphones,3,Phone order,2500,7500,6,June,Q2,Tuesday,False,Value
+1956,2026-06-09,Eldoret,Charger,4,Online,1200,4800,6,June,Q2,Tuesday,False,Value
+1957,2026-06-06,Nairobi,Charger,2,In-store,1200,2400,6,June,Q2,Saturday,True,Value
+1958,2026-02-16,Nakuru,Tablet,4,In-store,28000,112000,2,February,Q1,Monday,False,Premium
+1959,2026-03-31,Mombasa,Phone,4,In-store,15000,60000,3,March,Q1,Tuesday,False,Value
+1960,2026-06-01,Nairobi,Phone,2,In-store,15000,30000,6,June,Q2,Monday,False,Value
+1961,2026-01-16,Mombasa,Tablet,5,In-store,28000,140000,1,January,Q1,Friday,False,Premium
+1962,2026-02-11,Nairobi,Charger,3,In-store,1200,3600,2,February,Q1,Wednesday,False,Value
+1963,2026-02-07,Kisumu,Phone,2,In-store,15000,30000,2,February,Q1,Saturday,True,Value
+1964,2026-03-13,Nairobi,Laptop,1,Online,65000,65000,3,March,Q1,Friday,False,Premium
+1965,2026-01-21,Nakuru,Phone,3,In-store,15000,45000,1,January,Q1,Wednesday,False,Value
+1966,2026-02-01,Nairobi,Laptop,3,In-store,65000,195000,2,February,Q1,Sunday,True,Premium
+1967,2026-06-27,Nairobi,Tablet,5,In-store,28000,140000,6,June,Q2,Saturday,True,Premium
+1968,2026-03-29,Nairobi,Charger,3,Online,1200,3600,3,March,Q1,Sunday,True,Value
+1969,2026-05-27,Eldoret,Laptop,3,In-store,65000,195000,5,May,Q2,Wednesday,False,Premium
+1970,2026-01-14,Nairobi,Charger,2,In-store,1200,2400,1,January,Q1,Wednesday,False,Value
+1971,2026-01-10,Mombasa,Headphones,5,Online,2500,12500,1,January,Q1,Saturday,True,Value
+1972,2026-06-22,Nairobi,Laptop,2,Online,65000,130000,6,June,Q2,Monday,False,Premium
+1973,2026-06-23,Nairobi,Tablet,3,In-store,28000,84000,6,June,Q2,Tuesday,False,Premium
+1974,2026-01-03,Nairobi,Charger,1,In-store,1200,1200,1,January,Q1,Saturday,True,Value
+1975,2026-02-13,Mombasa,Laptop,4,Phone order,65000,260000,2,February,Q1,Friday,False,Premium
+1976,2026-03-31,Mombasa,Phone,1,In-store,15000,15000,3,March,Q1,Tuesday,False,Value
+1977,2026-04-26,Eldoret,Laptop,2,Online,65000,130000,4,April,Q2,Sunday,True,Premium
+1978,2026-05-31,Nakuru,Laptop,1,In-store,65000,65000,5,May,Q2,Sunday,True,Premium
+1979,2026-01-02,Nakuru,Laptop,2,Online,65000,130000,1,January,Q1,Friday,False,Premium
+1980,2026-01-24,Nairobi,Phone,1,In-store,15000,15000,1,January,Q1,Saturday,True,Value
+1981,2026-01-04,Mombasa,Laptop,3,In-store,65000,195000,1,January,Q1,Sunday,True,Premium
+1982,2026-04-18,Nairobi,Tablet,5,In-store,28000,140000,4,April,Q2,Saturday,True,Premium
+1983,2026-04-08,Nakuru,Charger,3,Online,1200,3600,4,April,Q2,Wednesday,False,Value
+1984,2026-04-06,Nairobi,Phone,1,Phone order,15000,15000,4,April,Q2,Monday,False,Value
+1985,2026-02-06,Mombasa,Phone,2,In-store,15000,30000,2,February,Q1,Friday,False,Value
+1986,2026-05-17,Nairobi,Headphones,2,In-store,2500,5000,5,May,Q2,Sunday,True,Value
+1987,2026-06-14,Nairobi,Tablet,3,Online,28000,84000,6,June,Q2,Sunday,True,Premium
+1988,2026-05-06,Eldoret,Headphones,5,Online,2500,12500,5,May,Q2,Wednesday,False,Value
+1989,2026-06-27,Mombasa,Tablet,2,Online,28000,56000,6,June,Q2,Saturday,True,Premium
+1990,2026-05-29,Mombasa,Laptop,3,In-store,65000,195000,5,May,Q2,Friday,False,Premium
+1991,2026-01-16,Nakuru,Phone,4,Online,15000,60000,1,January,Q1,Friday,False,Value
+1992,2026-05-23,Mombasa,Tablet,5,Phone order,28000,140000,5,May,Q2,Saturday,True,Premium
+1993,2026-04-22,Nakuru,Charger,1,Online,1200,1200,4,April,Q2,Wednesday,False,Value
+1994,2026-04-15,Nakuru,Tablet,2,In-store,28000,56000,4,April,Q2,Wednesday,False,Premium
+1995,2026-02-06,Nairobi,Charger,4,Online,1200,4800,2,February,Q1,Friday,False,Value
+1996,2026-03-04,Mombasa,Laptop,5,In-store,65000,325000,3,March,Q1,Wednesday,False,Premium
+1997,2026-03-06,Nairobi,Tablet,2,Phone order,28000,56000,3,March,Q1,Friday,False,Premium
+1998,2026-01-20,Nairobi,Laptop,3,Online,65000,195000,1,January,Q1,Tuesday,False,Premium
+1999,2026-03-02,Nairobi,Headphones,2,In-store,2500,5000,3,March,Q1,Monday,False,Value
+2000,2026-01-30,Nakuru,Charger,4,In-store,1200,4800,1,January,Q1,Friday,False,Value
