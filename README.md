@@ -1,47 +1,50 @@
-# PLP Data Analytics · Week 4 — Student EDA & Board Report
+# PLP Data Analytics · Week 4 — Student EDA & Duka Board Report
 
-Two engagements in one repository.
+Two engagements in one repository: finding the story (student performance EDA) and telling it (Duka board report and dashboard).
 
-| Engagement | Status | Files |
+| Engagement | What | Main files |
 |---|---|---|
-| 1 · County education office — who needs learner support? | ✅ Complete | `student_performance_eda.ipynb`, `figures/`, `student_performance.csv` |
-| 2 · Duka Electronics board — one-page visual report and live dashboard | ✅ Complete | `reports/board_report.png` / `.pdf`, `dashboard.html`, `build_report.py`, `build_dashboard.py` |
+| 1 · County education office | EDA on 1,200 students (seed 55): who is at risk and what is linked to better results | `student_eda.ipynb`, `figures/` |
+| 2 · Duka Electronics board | One-page phone-friendly report for H1 2026 (seed 2026 data), a chart makeover and a dashboard | `board_report.ipynb`, `reports/duka_board_report.png`, `dashboard.md` |
 
-## Engagement 1 — headline findings (1,200 students, seed 55)
-- **Study hours is the strongest factor:** r = 0.70 with average score; about **2.1 points per extra weekly hour** (R² = 0.50).
-- **99 learners (8.3%) are At Risk** (average < 60); they study a median 2.1 h/week vs 4.5 h overall and attend 69% of days vs 82%.
-- **Public schools carry the risk:** 10.9% At Risk vs 1.5% in private schools; 94 of 99 At Risk learners are in public schools. The 5.5-point school-type gap persists in every attendance band and study-hour quartile.
-- **County and gender are weak targeting criteria:** Nairobi has the highest At Risk share (9.2%) but a chi-square test (1.29 vs 11.07 needed) shows the county spread is consistent with chance.
-- **Recommendation:** target by behaviour (study ≤ 2.9 h/week or attendance ≤ 70%: 490 learners, 88.9% of the At Risk group), prioritising public schools.
+## Board Summary (150 words)
+Duka Electronics sold KES 71.8 million across 1,000 orders in the first half of 2026, but momentum stalled: second-quarter revenue was flat on the first quarter, down 0.3 percent. April was the strongest month at KES 13.5 million, while June was 19 percent lower. Two products, laptops and tablets, bring 85 percent of revenue, so supply problems there would hurt quickly. Mombasa and Nakuru, the second and third largest branches, fell by about a quarter each in the second quarter, losing KES 3.9 million together, while Nairobi grew 9 percent. Phone orders and Eldoret grew fastest, but both are small. We recommend three actions for the second half: protect laptop and tablet stock, investigate the Mombasa and Nakuru declines now, and pilot phone orders and Eldoret before investing more. These figures come from sales data only; branch changes rest on small order counts, so treat them as signals, not proof.
 
-See the notebook's Task 9 for the five insights, two recommendations and the Limitations paragraph.
+## Final one-page board report
+![Duka board report](reports/duka_board_report.png)
 
-## Engagement 2 — Duka board report (H1 2026, Week 3 data)
-**One-page report** (`reports/board_report.png`, also `.pdf`): a tall, phone-width page with action titles, one highlight colour and direct labels. **The story:** H1 revenue was **KES 71.8M** from 1,000 orders, but **Q2 was flat on Q1 (−0.3%)**; **laptops and tablets bring 85% of revenue**; **Mombasa (−25%) and Nakuru (−27%) fell in Q2** while Eldoret (+50%) and phone orders (+18.5%, biggest baskets) grew.
-**H2 recommendations:** (1) protect laptop and tablet supply; (2) diagnose Mombasa and Nakuru now; (3) pilot phone orders and Eldoret's momentum before scaling.
-**Caveats stated on the page:** branch-quarter figures rest on 51–202 orders each; no cost, margin or target data.
+PDF version: `reports/duka_board_report.pdf`. Chart makeover: `figures/before.png` and `figures/after.png`.
 
-**Live dashboard** (`dashboard.html`): self-contained interactive page with filters for branch, channel, product and month range, KPI tiles and tap-to-filter bars. Open the file in any browser, or host it for free: on GitHub go to *Settings → Pages → Deploy from branch → main / (root)*, then share `https://chala-prog.github.io/plp-da-a4-student-eda-and-board-report/dashboard.html`.
+## Five key EDA insights (Engagement 1)
+1. **Study hours is the strongest factor.** r = 0.70 with average score; each extra weekly hour is associated with about 2.1 points (R² = 0.50). The 99 At Risk learners (8.3%) study a median 2.1 h/week vs 4.5 h overall.
+2. **Attendance is a second, independent factor.** r = 0.36; 23.9% of learners with attendance of 70% or less are At Risk, against 2.3% of those above 80%.
+3. **A school-type gap of 5.5 points persists** in every attendance band and study-hour quartile (t-test p < 0.001). 94 of the 99 At Risk learners are in public schools (10.9% of public vs 1.5% of private learners).
+4. **County and gender barely matter.** Nairobi has the highest At Risk share (9.2%), but the county spread is consistent with chance (χ² = 1.40, p = 0.92); the gender gap is 0.2 points (p = 0.73).
+5. **Risk is concentrated and identifiable.** Study of 2.9 h/week or less, or attendance of 70% or less, flags 490 learners and captures 88.9% of the At Risk group, though most flagged learners are prevention cases (about 18% are currently below 60).
 
-Rebuild: `python generate_data.py && python build_report.py && python build_dashboard.py`
+Full analysis, two recommendations and the Limitations section are in `student_eda.ipynb`.
 
-## Run it
+## How to run
 ```bash
 pip install -r requirements.txt
-python generate_data.py        # seed 55 -> student_performance.csv; seed 2026 -> duka_sales.csv
-jupyter nbconvert --to notebook --execute --inplace student_performance_eda.ipynb   # regenerates figures/
+python generate_data.py     # seed 55 -> student_performance.csv; seed 2026 -> duka_sales.csv
+jupyter nbconvert --to notebook --execute --inplace student_eda.ipynb     # regenerates the EDA figures
+jupyter nbconvert --to notebook --execute --inplace board_report.ipynb    # regenerates reports/ and before/after
 ```
+Do not change the seeds.
 
-## Structure
+## Repository structure
 ```
-generate_data.py                  both generators, unchanged (seed 55 students, seed 2026 Duka)
-student_performance.csv           generated data
-student_performance_eda.ipynb     Tasks 1-9, answers written in Markdown under each section
-figures/                          six charts saved by the notebook (pandas .plot())
-duka_sales.csv                    Week 3 sales data
-build_report.py                   builds reports/board_report.png and .pdf
-build_dashboard.py                builds dashboard.html
-reports/                          one-page board report (PNG + PDF)
-dashboard.html                    interactive dashboard
+README.md                      this file
+generate_data.py               both generators, unchanged (seed 55 students, seed 2026 Duka)
+student_eda.ipynb              Structure, Univariate, Bivariate, Multivariate, Hypotheses, Findings, Recommendations, Limitations
+board_report.ipynb             storyboard (audience, decision, Big Idea, SCR), chart code, before/after makeover
+figures/                       EDA charts 01-07 plus before.png and after.png
+reports/                       duka_board_report.png and .pdf (one page)
+dashboard.md                   Looker Studio dashboard: link, build steps, screenshots
+looker_data/                   data file for the Looker Studio dashboard
+prototype/                     HTML prototype of the dashboard (design reference)
+screenshots/                   dashboard screenshots
+student_performance.csv, duka_sales.csv   generated data
 requirements.txt
 ```
