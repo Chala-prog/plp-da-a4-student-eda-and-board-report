@@ -1,6 +1,6 @@
 # Duka Electronics · H1 2026 dashboard
 
-> **STATUS: complete this file before submitting.** A public Looker Studio link can only be created from your own Google account, so it is **not** filled in below. Follow the steps, then replace the placeholders marked ⚠️.
+> **STATUS: complete this file before submitting.** A public Looker Studio link can only be created from your own Google account, so it is **not** filled in below. Follow the steps, then replace the placeholders marked.
 
 **Public Looker Studio link:** https://datastudio.google.com/reporting/0ba309f5-233e-4486-8cc6-c673a66defdd (Share → Manage access → *Anyone with the link* → Viewer)
 
