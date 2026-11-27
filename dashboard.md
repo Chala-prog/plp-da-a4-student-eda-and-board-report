@@ -2,7 +2,8 @@
 
 > **STATUS: complete this file before submitting.** A public Looker Studio link can only be created from your own Google account, so it is **not** filled in below. Follow the steps, then replace the placeholders marked.
 
-**Public Looker Studio link:** https://datastudio.google.com/reporting/0ba309f5-233e-4486-8cc6-c673a66defdd (Share → Manage access → *Anyone with the link* → Viewer)
+**Public Looker Studio link:** https://datastudio.google.com/reporting/0ba309f5-233e-4486-8cc6-c673a66defdd
+(Share → Manage access → *Anyone with the link* → Viewer)
 
 ## Build steps (about 20 minutes)
 1. **Load the data.** Upload `looker_data/duka_sales_for_looker.csv` to Google Sheets (File → Import), or use Looker Studio's *File Upload* connector. It has 1,000 rows with `order_date`, `month`, `quarter`, `branch`, `product`, `channel`, `quantity`, `unit_price`, `revenue` and `price_band`.
